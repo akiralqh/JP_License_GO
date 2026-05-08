@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>តេស្តប័ណ្ណបើកបរជប៉ុនដោយឥតគិតថ្លៃ</title>
+    <meta name="description" content="ទាញយកកម្មវិធីឥតគិតថ្លៃរបស់យើង ដើម្បីមើលការពន្យល់លម្អិត និងសំណួរផ្លូវការទាំង 1465!">
+    <style>
+        :root { --primary: #007AFF; --bg: #F2F2F7; --card-bg: #FFFFFF; --text: #1C1C1E; --secondary-text: #8E8E93; --correct: #34C759; --incorrect: #FF3B30; }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+        body { background-color: var(--bg); color: var(--text); padding-bottom: 100px; }
+        .header { background-color: var(--card-bg); padding: 16px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; }
+        .logo { font-size: 18px; font-weight: bold; color: var(--primary); text-decoration: none; }
+        select { padding: 6px 12px; border-radius: 8px; border: 1px solid #ccc; font-size: 14px; background: var(--bg); outline: none; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .hero { text-align: center; margin-bottom: 30px; }
+        .hero h1 { font-size: 24px; margin-bottom: 10px; line-height: 1.3; }
+        .hero p { font-size: 14px; color: var(--secondary-text); }
+        .question-card { background: var(--card-bg); border-radius: 16px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+        .question-badge { display: inline-block; background: var(--primary); color: white; padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: bold; margin-bottom: 12px; }
+        .question-text { font-size: 16px; line-height: 1.5; margin-bottom: 20px; font-weight: 500; }
+        .question-image { width: 100%; max-height: 200px; object-fit: contain; margin-bottom: 20px; border-radius: 8px; }
+        .btn-group { display: flex; gap: 10px; margin-bottom: 15px; }
+        .btn { flex: 1; padding: 14px; border: none; border-radius: 12px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s; }
+        .btn-true { background-color: #E5F1FF; color: var(--primary); }
+        .btn-false { background-color: #FFE5E5; color: var(--incorrect); }
+        .btn:disabled { opacity: 0.7; cursor: not-allowed; }
+        .btn.selected-correct { background-color: var(--correct); color: white; }
+        .btn.selected-incorrect { background-color: var(--incorrect); color: white; }
+        .explanation-btn { width: 100%; padding: 12px; background: none; border: 1px solid var(--primary); color: var(--primary); border-radius: 12px; font-size: 14px; font-weight: bold; cursor: pointer; display: none; }
+        .cta-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); z-index: 1000; justify-content: center; align-items: center; padding: 20px; }
+        .cta-card { background: var(--card-bg); width: 100%; max-width: 400px; border-radius: 20px; padding: 30px 20px; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.2); animation: popIn 0.3s ease-out; }
+        @keyframes popIn { from { transform: scale(0.9); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+        .cta-card h2 { font-size: 22px; margin-bottom: 12px; }
+        .cta-card p { font-size: 15px; color: var(--secondary-text); margin-bottom: 24px; line-height: 1.5; }
+        .download-btn { display: inline-block; background: var(--primary); color: white; text-decoration: none; padding: 16px 30px; border-radius: 25px; font-size: 18px; font-weight: bold; width: 100%; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <a href="#" class="logo">Japan License GO</a>
+        <select id="langSelect" onchange="window.location.href = document.getElementById('langSelect').value">
+            <option value="../en/index.html" >English</option>
+<option value="../ja/index.html" >日本語</option>
+<option value="../zh/index.html" >简体中文</option>
+<option value="../zht/index.html" >繁體中文</option>
+<option value="../ko/index.html" >한국어</option>
+<option value="../vi/index.html" >Tiếng Việt</option>
+<option value="../km/index.html" selected>ខ្មែរ</option>
+<option value="../ne/index.html" >नेपाली</option>
+<option value="../id/index.html" >Bahasa Indonesia</option>
+<option value="../my/index.html" >မြန်မာစာ</option>
+<option value="../tl/index.html" >Tagalog</option>
+<option value="../ptBR/index.html" >Português</option>
+
+        </select>
+    </div>
+
+    <div class="container">
+        <div class="hero">
+            <h1>តេស្តប័ណ្ណបើកបរជប៉ុនដោយឥតគិតថ្លៃ</h1>
+            <p>សាកល្បងសំណួរប្រឡងពិត ៥ សំណួរ។</p>
+        </div>
+        <div id="quiz-container">
+            
+        <div class="question-card">
+            <div class="question-badge">Question 1</div>
+            
+            <div class="question-text">ប្រសិនបើភ្លើងសញ្ញាប្តូរពីពណ៌បៃតងទៅលឿងក្នុងពេលបើកបរកាត់ផ្លូវប្រសព្វ អ្នកអាចបន្តទៅមុខបាន។</div>
+            <div class="btn-group">
+                <button class="btn btn-true" id="btn-true-0" onclick="answer(0, true, true)">◯ ត្រូវ</button>
+                <button class="btn btn-false" id="btn-false-0" onclick="answer(0, false, true)">✕ ខុស</button>
+            </div>
+            <button class="explanation-btn" id="exp-0" onclick="document.getElementById('ctaOverlay').style.display='flex'">មើលការពន្យល់</button>
+        </div>
+        
+        <div class="question-card">
+            <div class="question-badge">Question 2</div>
+            
+            <div class="question-text">ប្រសិនបើភ្លៀងមិនធ្លាក់ទេ អ្នកអាចបើកបរបានទោះបីជាកន្ទុយទឹកភ្លៀងខូចក៏ដោយ។</div>
+            <div class="btn-group">
+                <button class="btn btn-true" id="btn-true-1" onclick="answer(1, true, false)">◯ ត្រូវ</button>
+                <button class="btn btn-false" id="btn-false-1" onclick="answer(1, false, false)">✕ ខុស</button>
+            </div>
+            <button class="explanation-btn" id="exp-1" onclick="document.getElementById('ctaOverlay').style.display='flex'">មើលការពន្យល់</button>
+        </div>
+        
+        <div class="question-card">
+            <div class="question-badge">Question 3</div>
+            <img src="../images/tubiao01-01.jpg" class="question-image" alt="Test Image">
+            <div class="question-text">នៅលើផ្លូវដែលមានស្លាកសញ្ញានេះ រថយន្តធមមតាអាចបើកបរល្បឿនរហូតដល់ 50 គីឡូម៉ែត្រក្នុងមួយម៉ោង។</div>
+            <div class="btn-group">
+                <button class="btn btn-true" id="btn-true-2" onclick="answer(2, true, true)">◯ ត្រូវ</button>
+                <button class="btn btn-false" id="btn-false-2" onclick="answer(2, false, true)">✕ ខុស</button>
+            </div>
+            <button class="explanation-btn" id="exp-2" onclick="document.getElementById('ctaOverlay').style.display='flex'">មើលការពន្យល់</button>
+        </div>
+        
+        <div class="question-card">
+            <div class="question-badge">Question 4</div>
+            <img src="../images/tubiao01-02.jpg" class="question-image" alt="Test Image">
+            <div class="question-text">ស្លាកសញ្ញានេះបង្ហាញថា យានជំនិះដែលមានទម្ងន់ទំនិញលើសពី ៥.៥ តោន មិនអាចធ្វើដំណើរនៅលើផ្លូវនេះបានទេ។</div>
+            <div class="btn-group">
+                <button class="btn btn-true" id="btn-true-3" onclick="answer(3, true, false)">◯ ត្រូវ</button>
+                <button class="btn btn-false" id="btn-false-3" onclick="answer(3, false, false)">✕ ខុស</button>
+            </div>
+            <button class="explanation-btn" id="exp-3" onclick="document.getElementById('ctaOverlay').style.display='flex'">មើលការពន្យល់</button>
+        </div>
+        
+        <div class="question-card">
+            <div class="question-badge">Question 5</div>
+            <img src="../images/weixianyuce1.jpg" class="question-image" alt="Test Image">
+            <div class="question-text">អ្នកថ្មើរជើងអាចឆ្លងកាត់ពីចំណុចងងឹតរបស់ឡានក្រុង ដូច្នេះត្រូវបន្ថយល្បឿននៅពេលឆ្លងកាត់ឡានក្រុង។</div>
+            <div class="btn-group">
+                <button class="btn btn-true" id="btn-true-4" onclick="answer(4, true, true)">◯ ត្រូវ</button>
+                <button class="btn btn-false" id="btn-false-4" onclick="answer(4, false, true)">✕ ខុស</button>
+            </div>
+            <button class="explanation-btn" id="exp-4" onclick="document.getElementById('ctaOverlay').style.display='flex'">មើលការពន្យល់</button>
+        </div>
+        
+        </div>
+    </div>
+
+    <div class="cta-overlay" id="ctaOverlay">
+        <div class="cta-card">
+            <div style="width:80px; height:80px; background:#007AFF; border-radius:18px; margin: 0 auto 16px; display:flex; align-items:center; justify-content:center; color:white; font-size:24px; font-weight:bold;">GO</div>
+            <h2>មើលការពន្យល់</h2>
+            <p>ទាញយកកម្មវិធីឥតគិតថ្លៃរបស់យើង ដើម្បីមើលការពន្យល់លម្អិត និងសំណួរផ្លូវការទាំង 1465!</p>
+            <a href="https://apps.apple.com/app/id6760935926" target="_blank" class="download-btn">ទាញយកនៅលើ App Store</a>
+            <p style="font-size: 12px; color: #8E8E93; margin-top: 16px; text-decoration: underline; cursor: pointer;" onclick="document.getElementById('ctaOverlay').style.display='none'">Continue reading</p>
+        </div>
+    </div>
+
+    <script>
+        let answeredCount = 0;
+        function answer(index, selectedAnswer, correctAnswer) {
+            const btnTrue = document.getElementById(`btn-true-${index}`);
+            const btnFalse = document.getElementById(`btn-false-${index}`);
+            const expBtn = document.getElementById(`exp-${index}`);
+            
+            btnTrue.disabled = true;
+            btnFalse.disabled = true;
+
+            if (selectedAnswer === correctAnswer) {
+                if (selectedAnswer) btnTrue.classList.add('selected-correct');
+                else btnFalse.classList.add('selected-correct');
+            } else {
+                if (selectedAnswer) btnTrue.classList.add('selected-incorrect');
+                else btnFalse.classList.add('selected-incorrect');
+            }
+            
+            expBtn.style.display = 'block';
+        }
+    </script>
+</body>
+</html>
