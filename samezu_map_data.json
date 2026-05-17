@@ -1,0 +1,2386 @@
+{
+  "test_centers": [
+    {
+      "id": "samezu",
+      "name": {
+        "ja": "東京都 鮫洲運転免許試験場",
+        "en": "Tokyo Samezu Driving Test Center",
+        "zh": "东京 鲛洲考场",
+        "zht": "東京 鮫洲考場",
+        "ko": "도쿄 사메즈 운전면허시험장",
+        "vi": "Trung tâm sát hạch Samezu Tokyo",
+        "km": "មជ្ឈមណ្ឌលប្រឡង Samezu តូក្យូ",
+        "ne": "टोक्यो सामेजु परीक्षण केन्द्र",
+        "id": "Pusat Ujian Samezu Tokyo",
+        "my": "တိုကျို ဆာမေးဇူး စာမေးပွဲစင်တာ",
+        "tl": "Samezu Test Center ng Tokyo",
+        "ptBR": "Centro de Testes Samezu de Tóquio"
+      },
+      "center": {
+        "lat": 35.6035,
+        "lng": 139.7475
+      },
+      "routes": [
+        {
+          "id": "A",
+          "name": "A 路线",
+          "polyline": [
+            {
+              "id": 0,
+              "lat": 35.6037752,
+              "lng": 139.7467019
+            },
+            {
+              "id": 1,
+              "lat": 35.604051,
+              "lng": 139.7468174
+            },
+            {
+              "id": 2,
+              "lat": 35.6040525,
+              "lng": 139.7469167
+            },
+            {
+              "id": 3,
+              "lat": 35.6040378,
+              "lng": 139.7470737
+            },
+            {
+              "id": 4,
+              "lat": 35.6037752,
+              "lng": 139.7481781
+            },
+            {
+              "id": 5,
+              "lat": 35.603737,
+              "lng": 139.7482575
+            },
+            {
+              "id": 6,
+              "lat": 35.6036872,
+              "lng": 139.748299
+            },
+            {
+              "id": 7,
+              "lat": 35.6036417,
+              "lng": 139.748308
+            },
+            {
+              "id": 8,
+              "lat": 35.603583,
+              "lng": 139.7482972
+            },
+            {
+              "id": 9,
+              "lat": 35.6035375,
+              "lng": 139.7482737
+            },
+            {
+              "id": 10,
+              "lat": 35.6035052,
+              "lng": 139.7482431
+            },
+            {
+              "id": 11,
+              "lat": 35.6033262,
+              "lng": 139.7479056
+            },
+            {
+              "id": 12,
+              "lat": 35.6032807,
+              "lng": 139.7478009
+            },
+            {
+              "id": 13,
+              "lat": 35.6032763,
+              "lng": 139.747763
+            },
+            {
+              "id": 14,
+              "lat": 35.6033644,
+              "lng": 139.7473642
+            },
+            {
+              "id": 15,
+              "lat": 35.6034333,
+              "lng": 139.7473444
+            },
+            {
+              "id": 16,
+              "lat": 35.6038177,
+              "lng": 139.7474851
+            },
+            {
+              "id": 17,
+              "lat": 35.6038838,
+              "lng": 139.7474851
+            },
+            {
+              "id": 18,
+              "lat": 35.6039718,
+              "lng": 139.7470971
+            },
+            {
+              "id": 19,
+              "lat": 35.6039674,
+              "lng": 139.7470538
+            },
+            {
+              "id": 20,
+              "lat": 35.603916,
+              "lng": 139.7470304
+            },
+            {
+              "id": 21,
+              "lat": 35.603875,
+              "lng": 139.747025
+            },
+            {
+              "id": 22,
+              "lat": 35.6038486,
+              "lng": 139.7471224
+            },
+            {
+              "id": 23,
+              "lat": 35.6038221,
+              "lng": 139.7471386
+            },
+            {
+              "id": 24,
+              "lat": 35.6037561,
+              "lng": 139.7471116
+            },
+            {
+              "id": 25,
+              "lat": 35.60374,
+              "lng": 139.7471332
+            },
+            {
+              "id": 26,
+              "lat": 35.6035888,
+              "lng": 139.7477973
+            },
+            {
+              "id": 27,
+              "lat": 35.603605,
+              "lng": 139.7478244
+            },
+            {
+              "id": 28,
+              "lat": 35.6036842,
+              "lng": 139.7478497
+            },
+            {
+              "id": 29,
+              "lat": 35.6037209,
+              "lng": 139.747819
+            },
+            {
+              "id": 30,
+              "lat": 35.6037165,
+              "lng": 139.7477233
+            },
+            {
+              "id": 31,
+              "lat": 35.6037209,
+              "lng": 139.7476854
+            },
+            {
+              "id": 32,
+              "lat": 35.6037546,
+              "lng": 139.7476602
+            },
+            {
+              "id": 33,
+              "lat": 35.6038119,
+              "lng": 139.7476692
+            },
+            {
+              "id": 34,
+              "lat": 35.6038309,
+              "lng": 139.7476548
+            },
+            {
+              "id": 35,
+              "lat": 35.6039894,
+              "lng": 139.7469492
+            },
+            {
+              "id": 36,
+              "lat": 35.6039615,
+              "lng": 139.7468914
+            },
+            {
+              "id": 37,
+              "lat": 35.6039249,
+              "lng": 139.7468571
+            },
+            {
+              "id": 38,
+              "lat": 35.603627,
+              "lng": 139.7467489
+            },
+            {
+              "id": 39,
+              "lat": 35.603561,
+              "lng": 139.7467813
+            },
+            {
+              "id": 40,
+              "lat": 35.6035375,
+              "lng": 139.7468138
+            },
+            {
+              "id": 41,
+              "lat": 35.6033233,
+              "lng": 139.7477486
+            },
+            {
+              "id": 42,
+              "lat": 35.6033365,
+              "lng": 139.7478316
+            },
+            {
+              "id": 43,
+              "lat": 35.6035375,
+              "lng": 139.7481709
+            },
+            {
+              "id": 44,
+              "lat": 35.6036138,
+              "lng": 139.7481907
+            },
+            {
+              "id": 45,
+              "lat": 35.6037136,
+              "lng": 139.7481474
+            },
+            {
+              "id": 46,
+              "lat": 35.6037356,
+              "lng": 139.7481095
+            },
+            {
+              "id": 47,
+              "lat": 35.6038471,
+              "lng": 139.7476114
+            },
+            {
+              "id": 48,
+              "lat": 35.6038192,
+              "lng": 139.7475501
+            },
+            {
+              "id": 49,
+              "lat": 35.6034172,
+              "lng": 139.7474111
+            },
+            {
+              "id": 50,
+              "lat": 35.603379,
+              "lng": 139.7473047
+            },
+            {
+              "id": 51,
+              "lat": 35.603517,
+              "lng": 139.7467398
+            },
+            {
+              "id": 52,
+              "lat": 35.6035654,
+              "lng": 139.7466983
+            },
+            {
+              "id": 53,
+              "lat": 35.603605,
+              "lng": 139.7466911
+            },
+            {
+              "id": 54,
+              "lat": 35.6040334,
+              "lng": 139.7468535
+            },
+            {
+              "id": 55,
+              "lat": 35.6040437,
+              "lng": 139.7469492
+            },
+            {
+              "id": 56,
+              "lat": 35.6040246,
+              "lng": 139.7470701
+            },
+            {
+              "id": 57,
+              "lat": 35.6037723,
+              "lng": 139.7481528
+            },
+            {
+              "id": 58,
+              "lat": 35.6037546,
+              "lng": 139.7481997
+            },
+            {
+              "id": 59,
+              "lat": 35.6037224,
+              "lng": 139.7482521
+            },
+            {
+              "id": 60,
+              "lat": 35.6036505,
+              "lng": 139.7482846
+            },
+            {
+              "id": 61,
+              "lat": 35.6035668,
+              "lng": 139.7482683
+            },
+            {
+              "id": 62,
+              "lat": 35.6034979,
+              "lng": 139.7482052
+            },
+            {
+              "id": 63,
+              "lat": 35.6032998,
+              "lng": 139.7478244
+            },
+            {
+              "id": 64,
+              "lat": 35.6032749,
+              "lng": 139.7476692
+            },
+            {
+              "id": 65,
+              "lat": 35.6032455,
+              "lng": 139.7471838
+            },
+            {
+              "id": 66,
+              "lat": 35.6033468,
+              "lng": 139.746729
+            },
+            {
+              "id": 67,
+              "lat": 35.6034671,
+              "lng": 139.7466532
+            },
+            {
+              "id": 68,
+              "lat": 35.6037767,
+              "lng": 139.7467019
+            }
+          ],
+          "dangers": [
+            {
+              "lat": 35.6037752,
+              "lng": 139.7467019,
+              "title": {
+                "ja": "1. 乗車前の安全確認 (目視)",
+                "en": "1. Pre-entry Safety Ritual",
+                "zh": "1. 乘车前仪式 ",
+                "zht": "1. 乘車前儀式",
+                "ko": "1. 승차 전 안전 확인",
+                "vi": "1. Nghi thức kiểm tra trước khi lên xe",
+                "km": "1. ការត្រួតពិនិត្យចំណុចងងឹតមុនពេលចូល",
+                "ne": "1. गाडी चढ्नु अघि सुरक्षा जाँच",
+                "id": "1. Ritual Keselamatan Sebelum Masuk",
+                "my": "1. ကားထဲမဝင်မီ ဘေးကင်းရေး စစ်ဆေးခြင်း",
+                "tl": "1. Ritual sa Pagsusuri Bago Pumasok",
+                "ptBR": "1. Ritual de Segurança Pré-entrada"
+              },
+              "subtitle": {
+                "ja": "乗車前に車を一周して安全確認。発進前に右ウインカーを出し、右後方の目視を忘れないでください。",
+                "en": "Check around the car before getting in. Use right signal and check your blind spot before starting.",
+                "zh": "起步前务必绕车一周，调整座椅后视镜，打右灯并回头目视确认右后方死角后再出发。",
+                "zht": "起步前務必繞車一周，調整座椅後視鏡，打右燈並回頭目視確認右後方死角後再出發。",
+                "ko": "승차 전 차량 주변 확인. 출발 전 우측 방향지시등을 켜고 우측 후방 사각지대를 반드시 확인하세요.",
+                "vi": "Kiểm tra xung quanh xe trước khi lên. Bật xi-nhan phải và kiểm tra điểm mù trước khi bắt đầu.",
+                "km": "ពិនិត្យជុំវិញរថយន្តមុនពេលចូល។ ប្រើសញ្ញាខាងស្តាំ និងពិនិត្យមើលចំណុចងងឹតរបស់អ្នកមុនពេលចាប់ផ្តើម။",
+                "ne": "गाडीमा चढ्नु अघि वरिपरि जाँच गर्नुहोस्। सुरु गर्नु अघि दायाँ सिग्नल दिनुहोस् र ब्लाइन्ड स्पट जाँच गर्नुहोस्।",
+                "id": "Periksa sekeliling mobil sebelum masuk. Gunakan lampu sein kanan dan cek titik buta sebelum mulai.",
+                "my": "ကားထဲမဝင်မီ ကားပတ်ပတ်လည်ကို စစ်ဆေးပါ။ မစတင်မီ ညာဘက်အချက်ပြမီးပြပြီး မျက်ကွယ်အမှတ်ကို စစ်ဆေးပါ။",
+                "tl": "Suriin ang paligid ng kotse bago pumasok. Gumamit ng kanang signal at suriin ang iyong blind spot bago magsimula.",
+                "ptBR": "Verifique ao redor do carro antes de entrar. Use a seta para a direita e verifique o ponto cego antes de partir."
+              }
+            },
+            {
+              "lat": 35.60382594612074,
+              "lng": 139.7474799952555,
+              "title": {
+                "ja": "2. 見落としやすい一時停止線",
+                "en": "2. Silent STOP Line",
+                "zh": "2. 无声的停止线",
+                "zht": "2. 無聲的停止線",
+                "ko": "2. 간과하기 쉬운 일시정지선",
+                "vi": "2. Vạch dừng dễ bị bỏ qua",
+                "km": "2. ខ្សែសញ្ញាឈប់ដែលងាយនឹងមើលរំលង",
+                "ne": "2. बेवास्ता गरिएको स्टप लाइन",
+                "id": "2. Garis Berhenti Tersembunyi",
+                "my": "၂။ သတိမထားမိနိုင်သော ရပ်ရန်မျဉ်း",
+                "tl": "2. Nakatagong STOP Line",
+                "ptBR": "2. Linha de Parada Silenciosa"
+              },
+              "subtitle": {
+                "ja": "停止線の手前で完全に停止（3秒間）。左右の安全をしっかり目視で確認してから発進してください。",
+                "en": "Stop completely before the line for 3 seconds. Check left and right thoroughly before starting.",
+                "zh": "必须在停止线前完全刹停（车轮绝对静止3秒）。左右扭头确认安全后才能再次起步。",
+                "zht": "必須在停止線前完全剎停（車輪絕對靜止3秒）。左右扭頭確認安全後才能再次起步。",
+                "ko": "정지선 앞에서 3초간 완전 정지. 좌우 안전을 철저히 확인한 후 출발하세요.",
+                "vi": "Dừng hoàn toàn trước vạch trong 3 giây. Kiểm tra kỹ trái phải trước khi bắt đầu lại.",
+                "km": "បញ្ឈប់ទាំងស្រុងនៅមុខខ្សែសញ្ញារយៈពេល 3 វិនាទី។ ពិនិត្យឆ្វេងស្តាំឱ្យបានសေ့ចត់មុនពេលចាប់ផ្តើម។",
+                "ne": "लाइन अगाडि ३ सेकेन्ड पूर्ण रूपमा रोकिनुहोस्। पुन: सुरु गर्नु अघि दायाँ बायाँ राम्रोसँग जाँच गर्नुहोस्।",
+                "id": "Berhenti sepenuhnya di depan garis selama 3 detik. Cek kiri dan kanan dengan teliti sebelum mulai lagi。",
+                "my": "မျဉ်းရှေ့တွင် ၃ စက္ကန့်ကြာ လုံးဝရပ်ပါ။ ပြန်မစတင်မီ ဘယ်ညာကို သေචာစစ်ဆေးပါ။",
+                "tl": "Tumigil nang tuluyan bago ang linya nang 3 segundo. Suriin ang kaliwa at kanan nang mabuti bago magsimula。",
+                "ptBR": "Pare completamente antes da linha por 3 segundos. Verifique cuidadosamente para a esquerda e para a direita antes de partir。"
+              }
+            },
+            {
+              "lat": 35.60350566612861,
+              "lng": 139.74666093429357,
+              "title": {
+                "ja": "3. 見落としやすい一時停止線",
+                "en": "3. Silent STOP Line",
+                "zh": "3. 无声的停止线",
+                "zht": "3. 無聲的停止線",
+                "ko": "3. 간과하기 쉬운 일시정지선",
+                "vi": "3. Vạch dừng dễ bị bỏ qua",
+                "km": "3. ខ្សែសញ្ញាឈប់ដែលងាយនឹងមើលរំលង",
+                "ne": "3. बेवास्ता गरिएको स्टप लाइन",
+                "id": "3. Garis Berhenti Tersembunyi",
+                "my": "၃။ သတိမထားမိနိုင်သော ရပ်ရန်မျဉ်း",
+                "tl": "3. Nakatagong STOP Line",
+                "ptBR": "3. Linha de Parada Silenciosa"
+              },
+              "subtitle": {
+                "ja": "試験官はここで一時停止があることを教えてくれません。白線を越えずに、3秒間完全に停止してください。左右の安全をしっかり目視で確認してから発進します。",
+                "en": "The examiner will not remind you about the stop line here. Do not cross the white line; stop completely for 3 seconds. Check left and right thoroughly before starting.",
+                "zh": "考官绝不会提醒这里有停止线。车头不可越过白线，必须彻底刹死 3 秒。左右夸张扭头确认后方可起步。",
+                "zht": "考官絕不會提醒這裡有停止線。車頭不可越過白線，必須徹底剎死 3 秒。左右誇張扭頭確認後方可起步。",
+                "ko": "시험관은 이곳에 정지선이 있다는 것을 알려주지 않습니다. 흰색 선을 넘지 말고 3초간 완전 정지하세요. 좌우를 확실히 확인한 후 출발하십시오.",
+                "vi": "Giám khảo sẽ không nhắc bạn về vạch dừng ở đây. Không đè lên vạch trắng; dừng hẳn trong 3 giây. Kiểm tra kỹ hai bên trước khi bắt đầu.",
+                "km": "អ្នកត្រួតពិនិត្យនឹងមិនរំលึกអ្នកអំពីខ្សែសញ្ញាឈប់នៅទីនេះទេ។ ហាមឆ្លងកាត់ខ្សែពណ៌ស ត្រូវឈប់ឱ្យស្ងៀមរយៈពេល ៣ វិនាទី។",
+                "ne": "परीक्षकले यहाँ स्टप लाइन भएको कुरा सम्झाउने छैनन्। सेतो रेखा पार नगर्नुहोस्; ३ सेकेन्डका लागि पूर्ण रूपमा रोकिनुहोस्। सुरु गर्नु अघि दायाँ बायाँ राम्रोसँग जाँच गर्नुहोस्।",
+                "id": "Penguji tidak akan mengingatkan ada garis berhenti di sini. Jangan melewati garis putih; berhenti total selama 3 detik. Cek kiri dan kanan dengan teliti sebelum jalan.",
+                "my": "စာမေးပွဲစစ်သူသည် ဤနေရာတွင် ရပ်ရန်မျဉ်းရှိကြောင်း သတိပေးမည်မဟုတ်ပါ။ အဖြူရောင်မျဉ်းကို မကျော်ပါနှင့်၊ ၃ စက္ကန့်ကြာ လုံးဝရပ်ပါ။ မထွက်ခွာမီ ဘယ်ညာကို သေချာကြည့်ပါ။",
+                "tl": "Hindi magpapaalala ang examiner tungkol sa stop line dito. Huwag lumampas sa puting linya; huminto nang tuluyan nang 3 segundo. Suriin ang kaliwa at kanan bago magsimula.",
+                "ptBR": "O examinador não o lembrará da linha de parada aqui. Não cruze a linha branca; pare completamente por 3 segundos. Verifique cuidadosamente para a esquerda e para a direita antes de partir."
+              }
+            },
+            {
+              "lat": 35.60394423082383,
+              "lng": 139.74723064534916,
+              "title": {
+                "ja": "4. 恐怖の左寄せ (巻き込み防止)",
+                "en": "4. Fatal Left Turn Alignment",
+                "zh": "4. 死亡左转贴边",
+                "zht": "4. 死亡左轉貼邊",
+                "ko": "4. 공포의 좌측 밀착 (감점 주의)",
+                "vi": "4. Bám sát lề trái tử thần",
+                "km": "4. ការរក្សាទៅខាងឆ្វេងដែលគ្រោះថ្នាក់",
+                "ne": "4. खतरनाक बायाँ मोडिने साइड",
+                "id": "4. Merapat ke Kiri yang Fatal",
+                "my": "၄။ ကြောက်စရာကောင်းသော ဘယ်ဘက်ကပ်မောင်းခြင်း",
+                "tl": "4. Fatal na Pagpapakaliwa",
+                "ptBR": "4. Alinhamento à Esquerda Fatal"
+              },
+              "subtitle": {
+                "ja": "鮫洲の最難関！交差点の30m手前で左合図・左死角を目視し、車を左端から30cm以内に寄せてください。二輪車の進入を完全に防がないと即不合格です！",
+                "en": "The hardest part of Samezu! Signal left 30m before, check blind spot, and pull within 30cm of the curb. You must block cyclists completely or you will fail!",
+                "zh": "鮫洲最严考点！距路口30米处必须打左灯、回头看左死角，并将车死死贴住左侧路沿（绝不能超过30厘米），彻底封死自行车的路！",
+                "zht": "鮫洲最嚴考點！距路口30米處必須打左燈、回頭看左死角，並將車死死貼住左側路沿（絕不能超過30厘米），徹底封死自行车的路！",
+                "ko": "사메즈 시험장의 가장 어려운 부분! 교차로 30m 전 좌측 방향등을 켜고 사각지대를 확인하며, 연석에서 30cm 이내로 밀착하세요. 이륜차 진입을 차단하지 않으면 즉시 불합격입니다!",
+                "vi": "Phần khó nhất ở Samezu! Bật xi-nhan trái trước 30m, kiểm tra điểm mù và bám sát lề trong vòng 30cm. Phải chặn hoàn toàn xe máy nếu không sẽ trượt ngay lập tức!",
+                "km": "ផ្នែកដែលពិបាកបំផុតនៃ Samezu! ឱ្យសញ្ញាឆ្វេង ៣០ ម៉ែត្រមុន ពិនិត្យចំណុចងងឹត និងចូលទៅជិតក្នុងរង្វង់ ៣០ សង់ទីម៉ែត្រពីចိញ្ចើមផ្លូវ។ ត្រូវតែបិទផ្លូវអ្នកជិះកង់ឱ្យជិត បើមិនដូច្នេះទេអ្នកនឹងធ្លាក់!",
+                "ne": "सामेजुको सबैभन्दा कठिन भाग! ३० मिटर अगाडि बायाँ सिग्नल दिनुहोस्, ब्लाइन्ड स्पट जाँच गर्नुहोस्, र किनाराबाट ३० सेमी भित्र च्याप्नुहोस्। मोटरसाइकललाई रोक्नै पर्छ अन्यथा तपाईं फेल हुनुहुनेछ!",
+                "id": "Bagian tersulit di Samezu! Beri sein kiri 30m sebelum, cek titik buta, dan merapat dalam 30cm dari trotoar. Anda harus menutup celah motor sepenuhnya atau Anda akan gagal!",
+                "my": "ဆာမေးဇူး၏ အခက်ခဲဆုံးအပိုင်း။ လမ်းဆုံမရောက်မီ ၃၀ မီတာမှ ဘယ်ဘက်မီးပြပါ၊ မျက်ကွယ်အမှတ်ကို စစ်ဆေးပြီး လမ်းဘေးမှ ၃၀ စင်တီမီတာအတွင်း ကပ်ပါ။ ဆိုင်ကယ်များကို လုံးဝပိတ်မောင်းရပါမည်၊ မဟုတ်ပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Ang pinakamahirap na bahagi sa Samezu! Mag-signal sa kaliwa 30m bago ang kanto, suriin ang blind spot, at dumikit sa loob ng 30cm ng bangketa. Dapat harangan ang mga motor o babagsak ka!",
+                "ptBR": "A parte mais difícil de Samezu! Sinalize para a esquerda 30m antes, verifique o ponto cego e aproxime-se a menos de 30cm do meio-fio. Você deve bloquear ciclistas totalmente ou será reprovado!"
+              }
+            },
+            {
+              "lat": 35.6037949016057,
+              "lng": 139.74784313371907,
+              "title": {
+                "ja": "5. 障害物回避 (駐車車両)",
+                "en": "5. Road Obstacle Avoidance",
+                "zh": "5. 直道障碍物",
+                "zht": "5. 直道障礙物",
+                "ko": "5. 장애물 회피 (주차 차량)",
+                "vi": "5. Tránh vật cản trên đường",
+                "km": "5. ការជៀសវាងឧបសគ្គនៅលើផ្លូវ",
+                "ne": "5. सडकमा अवरोध हटाउने",
+                "id": "5. Penghindaran Halangan Jalan",
+                "my": "၅။ လမ်းပေါ်ရှိ အတားအဆီးကို ရှောင်ခြင်း",
+                "tl": "5. Pag-iwas sa Obstakulo sa Daan",
+                "ptBR": "5. Desvio de Obstáculo na Estrada"
+              },
+              "subtitle": {
+                "ja": "前方にトラックやコーンがある場合があります。事前に右合図を出し、側方を通過する際は1m以上の間隔を空けてください。不安な場合は一時停止！",
+                "en": "Trucks or cones may be ahead. Signal right in advance and maintain at least 1m clearance when passing. If unsure, stop!",
+                "zh": "前方可能停有大卡车或摆放路锥！必须提前打右灯借道，侧面通过时保持至少 1 米（一扇车门）的安全距离。如果不确定能否通过，宁可停车！",
+                "zht": "前方可能停有大卡車或擺放路錐！必須提前打右燈借道，側面通過時保持至少 1 米（一扇車門）的安全距離。如果不確定能否通過，寧可停車！",
+                "ko": "전방에 트럭이나 라바콘이 있을 수 있습니다. 미리 우측 방향등을 켜고 통과 시 1m 이상의 간격을 유지하세요. 불안하면 일단 정지!",
+                "vi": "Có thể có xe tải hoặc cọc tiêu phía trước. Bật xi-nhan phải trước và giữ khoảng cách ít nhất 1m khi vượt qua. Nếu không chắc chắn, hãy dừng lại!",
+                "km": "អាចមានឡានដឹកទំនិញ ឬកោណនៅខាងមុខ។ ឱ្យសញ្ញាស្តាំជាមុន និងរក្សាចម្ងាយយ៉ាងតិច ១ ម៉ែត្រ។ បើមិនច្បាស់ ត្រូវឈប់!",
+                "ne": "अगाडि ट्रक वा कोनहरू हुन सक्छन्। पहिले नै दायाँ सिग्नल दिनुहोस् र पार गर्दा कम्तिमा १ मिटरको दूरी राख्नुहोस्। निश्चित नभएमा रोकिनुहोस्!",
+                "id": "Mungkin ada truk atau kerucut di depan. Beri sein kanan sebelumnya dan jaga jarak minimal 1m saat lewat. Jika tidak yakin, berhentilah!",
+                "my": "ရှေ့တွင် ကုန်တင်ကား သို့မဟုတ် လမ်းကွန်များ ရှိနိုင်ပါသည်။ ကြိုတင်၍ ညာဘက်မီးပြပါ၊ ကျော်တက်စဉ် အနည်းဆုံး ၁ မီတာ ခွာမောင်းပါ။ မသေချာပါက ရပ်ပါ။",
+                "tl": "Maaaring may trak o cones sa harap. Mag-signal sa kanan nang maaga at lumayo ng hindi bababa sa 1m. Kung hindi sigurado, huminto!",
+                "ptBR": "Pode haver caminhões ou cones à frente. Sinalize para a direita com antecedência e mantenha pelo menos 1m de distância ao passar. Se não tiver certeza, pare!"
+              }
+            },
+            {
+              "lat": 35.603250567379405,
+              "lng": 139.74743921422424,
+              "title": {
+                "ja": "6. 踏切通過の罠",
+                "en": "6. Railroad Crossing Trap",
+                "zh": "6. 铁道口生死劫",
+                "zht": "6. 鐵道口生死劫",
+                "ko": "6. 철길 건널목 확인",
+                "vi": "6. Bẫy đường ray xe lửa",
+                "km": "6. អន្ទាក់ផ្លូវឆ្លងកាត់ផ្លូវរថភ្លើង",
+                "ne": "6. रेलवे क्रसिङ पासो",
+                "id": "6. Jebakan Perlintasan KA",
+                "my": "၆။ မီးရထားလမ်းကူး ထောင်ချောက်",
+                "tl": "6. Bitag sa Riles ng Tren",
+                "ptBR": "6. Armadilha de Passagem de Nível"
+              },
+              "subtitle": {
+                "ja": "停止線の前で必ず一時停止！窓を（5cm以上）開け、左右を目視して音を確認してください。前方に十分なスペースがあることを确认し、ギアを変えずに一気に通過します。",
+                "en": "Stop completely before the line! Open the window (at least 5cm), check both sides, and listen for trains. Ensure there is space ahead and cross steadily without shifting gears.",
+                "zh": "停止线前必须彻底刹停！必须摇下车窗（至少5厘米），探头看左右并倾听声音。确认前方有空间后，一脚油门不换挡直接通过！",
+                "zht": "停止線前必須徹底剎停！必須搖下車窗（至少5厘米），探頭看左右並傾聽聲音！確認前方有空間後，一腳油門不換擋直接通過！",
+                "ko": "정지선 앞에서 반드시 일시정지! 창문을(5cm 이상) 열고 좌우를 살피며 소리를 확인하세요. 전방에 충분한 공간이 있는지 확인한 후 기어 변속 없이 한 번에 통과하십시오。",
+                "vi": "Phải dừng lại hoàn toàn trước vạch dừng! Phải hạ cửa sổ xe (ít nhất 5cm), nhìn quanh hai bên và lắng nghe âm thanh. Sau khi xác nhận có đủ khoảng trống phía trước, nhấn ga đi thẳng mà không sang số!",
+                "km": "ត្រូវតែឈប់ឱ្យស្ងៀមនៅមុខខ្សែសញ្ញាឈប់! ត្រូវតែបើកបង្អួចរថយន្ត (យ៉ាងហោចណាស់ ៥ សង់ទីម៉ែត្រ) សម្លឹងមើលឆ្វេងស្តាំ និងស្តាប់សំឡេង។ បន្ទាប់ពីបញ្ជាក់ថាមានកន្លែងនៅខាងមុខហើយ សូមជាន់ហ្គែរឆ្លងកាត់ដោយមិនប្តូរលេខ!",
+                "ne": "स्टप लाइन अगाडि पूर्ण रूपमा रोकिनुहोस्! विन्डो (कम्तिमा ५ सेमी) खोल्नुहोस्, दुबै तर्फ हेर्नुहोस् र आवाज सुन्नုहोस्। अगाडि पर्याप्त ठाउँ भएको पुष्टि भएपछि, गियर परिवर्तन नगरी एकै पटक पार गर्नुहोस्!",
+                "id": "Harus berhenti total sebelum garis berhenti! Harus buka jendela (minimal 5cm), tengok kiri-kanan dan dengarkan suara. Setelah memastikan ada ruang di depan, injak gas dan lewat tanpa oper gigi!",
+                "my": "ရပ်ရန်မျဉ်းရှေ့တွင် လုံးဝရပ်ပါ။ ပြတင်းပေါက်ကို (အနည်းဆုံး ၅ စင်တီမီတာ) ဖွင့်ပါ၊ ဘယ်ညာကြည့်ပြီး အသံနားထောင်ပါ။ ရှေ့တွင် နေရာလွတ်ရှိကြောင်း အတည်ပြုပြီးပါက ဂီယာမချိန်းဘဲ အရှိန်ဖြင့် တစ်ခါတည်း ဖြတ်မောင်းပါ။",
+                "tl": "Dapat huminto nang tuluyan bago ang stop line! Buksan ang bintana (kahit 5cm), tingnan ang kaliwa't kanan at makinig. Siguraduhing may sapat na espasyo sa harap at dumeretso nang hindi nagpapalit ng gear!",
+                "ptBR": "Pare completamente antes da linha de parada! Abra a janela (pelo menos 5cm), olhe para os dois lados e ouça. Após confirmar que há espaço à frente, acelere e passe sem trocar de marcha!"
+              }
+            },
+            {
+              "lat": 35.60368877408395,
+              "lng": 139.74749046177507,
+              "title": {
+                "ja": "7. 恐怖の横断歩道 (歩行者優先)",
+                "en": "7. Fatal Crosswalk (Pedestrian Priority)",
+                "zh": "7. 致命斑马线",
+                "zht": "7. 致命斑馬線",
+                "ko": "7. 공포의 횡단보도 (보행자 보호)",
+                "vi": "7. Vạch kẻ đường tử thần",
+                "km": "7. ផ្លូវថ្មើរជើងដែលគ្រោះថ្នាក់",
+                "ne": "7. खतरनाक जेब्रा क्रसिङ",
+                "id": "7. Penyeberangan Pejalan Kaki Fatal",
+                "my": "၇။ ကြောက်စရာကောင်းသော လူကူးမျဉ်းကြား",
+                "tl": "7. Fatal na Tawiran ng Tao",
+                "ptBR": "7. Faixa de Pedestres Fatal"
+              },
+              "subtitle": {
+                "ja": "試験官やスタッフが横断歩道のそばに立っている場合、すぐにブレーキに足を乗せて停止の準備をしてください。歩行者が渡ろうとする動作を少しでも見せたら、必ず一時停止してください。",
+                "en": "If staff are standing near the crosswalk, keep your foot on the brake ready to stop. If they show any intent to cross, you MUST stop immediately. Never rush through!",
+                "zh": "只要有工作人员假装站在斑马线旁边，您的右脚必须立刻踩在刹车上准备随时停下。只要他有抬腿的动作，必须立刻刹停，绝不可抢行！",
+                "zht": "只要有工作人員假裝站在斑馬線旁邊，您的右腳必須立刻踩在剎車上準備隨時停下。只要他有抬腿的動作，必須立刻剎停，絕不可搶行！",
+                "ko": "요원이나 스태프가 횡단보도 근처에 서 있는 경우, 즉시 브레이크에 발을 올리고 멈출 준비를 하세요. 보행자가 건너려는 기색이 조금이라도 보이면 반드시 정지해야 합니다.",
+                "vi": "Nếu có nhân viên đứng gần vạch kẻ đường, hãy đặt chân lên phanh sẵn sàng dừng lại. Nếu họ có ý định sang đường, bạn PHẢI dừng lại ngay lập tức!",
+                "km": "ប្រសិនបើមានបុគ្គលិកឈរក្បែរផ្លូវថ្មើរជើង សូមដាក់ជើងលើហ្វ្រាំងដើម្បីត្រៀមឈប់។ ប្រសិនបើពួកគេបង្ហាញសញ្ញាចង់ឆ្លង ត្រូវតែឈប់ជាបន្ទាន់!",
+                "ne": "यदि कर्मचारीहरू जेब्रा क्रसिङ नजिकै उभिएका छन् भने, जुनसुकै बेला रोकिनका लागि आफ्नो खुट्टा ब्रेकमा राख्नुहोस्। यदि उनीहरूले हिँड्न खोजेमा, तुरुन्तै रोकिनुपर्छ!",
+                "id": "Jika staf berdiri di dekat penyeberangan, segera siapkan kaki di rem. Jika họ menunjukkan gerakan ingin menyeberang, Anda WAJIB segera berhenti!",
+                "my": "ဝန်ထမ်းများ လူကူးမျဉ်းကြားအနီးတွင် ရှိနေပါက ချက်ချင်းရပ်ရန် ဘရိတ်ပေါ်ခြေတင်ထားပါ။ ၎င်းတို့ လမ်းကူးမည့်အရိပ်အယောင်ပြပါက လုံးဝရပ်ပေးရပါမည်။",
+                "tl": "Kung may mga staff na nakatayo malapit sa tawiran, ihanda ang paa sa brake. Kung magpapakita sila ng senyales na tatawid, DAPAT huminto agad!",
+                "ptBR": "Se houver funcionários perto da faixa, mantenha o pé no freio pronto para parar. Se eles mostrarem qualquer intenção de atravessar, você DEVE parar imediatamente!"
+              }
+            },
+            {
+              "lat": 35.60397140119264,
+              "lng": 139.7471122201559,
+              "title": {
+                "ja": "8. S字・クランク脱輪注意",
+                "en": "8. S-Curve / Crank Wheel Derailment",
+                "zh": "8. S弯/直角弯脱轮",
+                "zht": "8. S彎/直角彎脫輪",
+                "ko": "8. S자·크랭크 탈륜 주의",
+                "vi": "8. Chú ý đè vạch đường chữ S/vuông góc",
+                "km": "8. ការប្រុងប្រយ័ត្នកិនចិញ្ចើមផ្លូវអក្សរ S/បត់កែង",
+                "ne": "8. एस-घुम्ती/क्र्यांकमा टायर चढ्ने जोखिम",
+                "id": "8. Waspada Trotoar Jalur S/Siku",
+                "my": "၈။ S-ကွေ့/ထောင့်ချိုးလမ်းကြောင်း နင်းမိနိုင်ခြေ",
+                "tl": "8. S-Curve / Crank Wheel Derailment",
+                "ptBR": "8. Cuidado com o Meio-fio na Curva em S/L"
+              },
+              "subtitle": {
+                "ja": "鮫洲のコースは非常に狭いです！後輪が縁石に乗り上げそうになったら、すぐにブレーキをかけて停止してください。その場でバックしてやり直せば合格の可能性がありますが、そのまま進むと即不合格です！",
+                "en": "Samezu's curves are extremely narrow! If you feel the rear wheel is about to hit the curb, brake immediately! You can reverse and try again, but driving over the curb is an automatic failure!",
+                "zh": "鮫洲的弯道极窄！万一感觉后轮要压上马路牙子，立刻踩死刹车！原地挂倒挡往后退（允许重试），心存侥幸硬开过去直接不及格！",
+                "zht": "鮫洲的彎道極窄！萬一感覺後輪要壓上馬路牙子，立刻踩死剎車！原地掛倒擋往後退（允許重試），心存僥倖硬開過去直接不及格！",
+                "ko": "사메즈의 커브는 매우 좁습니다! 뒷바퀴가 연석에 올라탈 것 같으면 즉시 브레이크를 밟으세요! 그 자리에서 후진하여 다시 시도하면 합격 가능성이 있지만, 그대로 진행하면 즉시 불합격입니다!",
+                "vi": "Khúc cua ở Samezu rất hẹp! Nếu cảm thấy bánh sau sắp đè lên vỉa hè, hãy đạp phanh ngay lập tức! Bạn có thể lùi lại và thử lại, nhưng nếu cố tình đi qua sẽ bị đánh trượt ngay!",
+                "km": "ផ្លូវកោងរបស់ Samezu គឺចង្អៀតណាស់! ប្រសិនបើអ្នកមានអារម្មណ៍ថាកង់ក្រោយជិតនឹងកិនចិញ្ចើមផ្លូវ សូមជាន់ហ្វ្រាំងជាបន្ទាន់! អ្នកអាចថយក្រោយដើម្បីសាកល្បងម្ដងទៀត ប៉ុន្តែប្រសិនបើអ្នកបន្តទៅមុខនឹងត្រូវធ្លាក់ភ្លាមៗ!",
+                "ne": "सामेजुको घुम्तीहरू एकदमै साँघुरा छन्! यदि पछाडिको पाङ्ग्रा किनारामा चढ्न लागेको महसुस भएमा, तुरुन्तै ब्रेक लगाउनुहोस्! तपाईं ब्याक गरेर पुन: प्रयास गर्न सक्नुहुन्छ, तर जबरजस्ती अगाडि बढेमा तुरुन्तै फेल हुनुहुनेछ!",
+                "id": "Tikungan Samezu sangat sempit! Jika merasa roda belakang akan menabrak trotoar, segera injak rem! Anda boleh mundur dan mencoba lagi, tapi jika memaksakan lewat akan langsung tidak lulus!",
+                "my": "ဆာမေးဇူး၏ ကွေ့များသည် အလွန်ကျဉ်းပါသည်။ နောက်ဘီးသည် လမ်းဘေးနင်းမိတော့မည်ဟု ခံစားရပါက ချက်ချင်းဘရိတ်အုပ်ပါ။ နောက်ဆုတ်ပြီး ပြန်ကြိုးစားနိုင်သော်လည်း ဇွတ်မောင်းပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Napakakipot ng mga kurba sa Samezu! Kung mararamdaman mong tatama ang gulong sa gilid, mag-preno agad! Maaari kang umatras at sumubok muli, pero kung itutuloy mo ay babagsak ka agad!",
+                "ptBR": "As curvas de Samezu são extremamente estreitas! Se sentir que a roda traseira vai subir no meio-fio, freie imediatamente! Você pode dar ré e tentar de novo, mas se continuar será reprovado automaticamente!"
+              }
+            },
+            {
+              "lat": 35.60359064428795,
+              "lng": 139.74778907901438,
+              "title": {
+                "ja": "9. S字・クランク脱輪注意",
+                "en": "9. S-Curve / Crank Wheel Derailment",
+                "zh": "9. S弯/直角弯脱轮 (脱輪)",
+                "zht": "9. S彎/直角彎脫輪 (脫輪)",
+                "ko": "9. S자·크랭크 탈륜 주의",
+                "vi": "9. Chú ý đè vạch đường chữ S/vuông góc",
+                "km": "9. ការប្រុងប្រយ័ត្នកិនចិញ្ចើមផ្លូវអក្សរ S/បត់កែង",
+                "ne": "9. एस-घुम्ती/क्र्यांकमा टायर चढ्ने जोखिम",
+                "id": "9. Waspada Trotoar Jalur S/Siku",
+                "my": "၉။ S-ကွေ့/ထောင့်ချိုးလမ်းကြောင်း နင်းမိနိုင်ခြေ",
+                "tl": "9. S-Curve / Crank Wheel Derailment",
+                "ptBR": "9. Cuidado com o Meio-fio na Curva em S/L"
+              },
+              "subtitle": {
+                "ja": "鮫洲のコースは非常に狭いです！後輪が縁石に乗り上げそうになったら、すぐにブレーキをかけて停止してください。その場でバックしてやり直せば合格の可能性がありますが、そのまま進むと即不合格です！",
+                "en": "Samezu's curves are extremely narrow! If you feel the rear wheel is about to hit the curb, brake immediately! You can reverse and try again, but driving over the curb is an automatic failure!",
+                "zh": "鮫洲的弯道极窄！万一感觉后轮要压上马路牙子，立刻踩死刹车！原地挂倒挡往后退（允许重试），心存侥幸硬开过去直接不及格！",
+                "zht": "鮫洲的彎道極窄！萬一感覺後輪要壓上馬路牙子，立刻踩死剎車！原地掛倒擋往後退（允許重試），心存僥倖硬開過去直接不及格！",
+                "ko": "사메즈의 커브는 매우 좁습니다! 뒷바퀴가 연석에 올라탈 것 같으면 즉시 브레이크를 밟으세요! 그 자리에서 후진하여 다시 시도하면 합격 가능성이 있지만, 그대로 진행하면 즉시 불합격입니다!",
+                "vi": "Khúc cua ở Samezu rất hẹp! Nếu cảm thấy bánh sau sắp đè lên vỉa hè, hãy đạp phanh ngay lập tức! Bạn có thể lùi lại và thử lại, nhưng nếu cố tình đi qua sẽ bị đánh trượt ngay!",
+                "km": "ផ្លូវកោងរបស់ Samezu គឺចង្អៀតណាស់! ប្រសិនបើអ្នកមានអារម្មណ៍ថាកង់ក្រោយជិតនឹងកិនចិញ្ចើមផ្លូវ សូមជាន់ហ្វ្រាំងជាបន្ទាន់! អ្នកអាចថយក្រោយដើម្បីសាកល្បងម្ដងទៀត ប៉ុន្តែប្រសិនបើអ្នកបន្តទៅមុខនឹងត្រូវធ្លាក់ភ្លាមៗ!",
+                "ne": "सामेजुको घुम्तीहरू एकदमै साँघुरा छन्! यदि पछाडिको पाङ्ग्रा किनारामा चढ्न लागेको महसुस भएमा, तुरुन्तै ब्रेक लगाउनुहोस्! तपाईं ब्याक गरेर पुन: प्रयास गर्न सक्नुहुन्छ, तर जबरजस्ती अगाडि बढेमा तुरुन्तै फेल हुनुहुनेछ!",
+                "id": "Tikungan Samezu sangat sempit! Jika merasa roda belakang akan menabrak trotoar, segera injak rem! Anda boleh mundur dan mencoba lagi, tapi jika memaksakan lewat akan langsung tidak lulus!",
+                "my": "ဆာမေးဇူး၏ ကွေ့များသည် အလွန်ကျဉ်းပါသည်။ နောက်ဘီးသည် လမ်းဘေးနင်းမိတော့မည်ဟု ခံစားရပါက ချက်ချင်းဘရိတ်အုပ်ပါ။ နောက်ဆုတ်ပြီး ပြန်ကြိုးစားနိုင်သော်လည်း ဇွတ်မောင်းပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Napakakipot ng mga kurba sa Samezu! Kung mararamdaman mong tatama ang gulong sa gilid, mag-preno agad! Maaari kang umatras at sumubok muli, pero kung itutuloy mo ay babagsak ka agad!",
+                "ptBR": "As curvas de Samezu são extremamente estreitas! Se sentir que a roda traseira vai subir no meio-fio, freie imediatamente! Você pode dar ré e tentar de novo, mas se continuar será reprovado automaticamente!"
+              }
+            }
+          ],
+          "directions": [
+            {
+              "id": "A_dir_1",
+              "lat": 35.60386660527577,
+              "lng": 139.7467405495166,
+              "heading": 15.0
+            },
+            {
+              "id": "A_dir_2",
+              "lat": 35.603293855030095,
+              "lng": 139.74768192781588,
+              "heading": 275.0
+            },
+            {
+              "id": "A_dir_3",
+              "lat": 35.60372710136435,
+              "lng": 139.7474529815792,
+              "heading": 15.0
+            },
+            {
+              "id": "A_dir_4",
+              "lat": 35.603636457095874,
+              "lng": 139.7475950763408,
+              "heading": 95.0
+            },
+            {
+              "id": "A_dir_5",
+              "lat": 35.603800451011224,
+              "lng": 139.74754300724308,
+              "heading": 190.0
+            },
+            {
+              "id": "A_dir_6",
+              "lat": 35.60378951657985,
+              "lng": 139.74807610839164,
+              "heading": 100.0
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "name": "B 路线",
+          "polyline": [
+            {
+              "id": 0,
+              "lat": 35.6037267,
+              "lng": 139.7466724
+            },
+            {
+              "id": 1,
+              "lat": 35.6040773,
+              "lng": 139.7467998
+            },
+            {
+              "id": 2,
+              "lat": 35.6040802,
+              "lng": 139.7468652
+            },
+            {
+              "id": 3,
+              "lat": 35.604065,
+              "lng": 139.7469552
+            },
+            {
+              "id": 4,
+              "lat": 35.6037883,
+              "lng": 139.7481493
+            },
+            {
+              "id": 5,
+              "lat": 35.6037721,
+              "lng": 139.7482043
+            },
+            {
+              "id": 6,
+              "lat": 35.603737,
+              "lng": 139.7482674
+            },
+            {
+              "id": 7,
+              "lat": 35.6036648,
+              "lng": 139.7483164
+            },
+            {
+              "id": 8,
+              "lat": 35.6035764,
+              "lng": 139.7483094
+            },
+            {
+              "id": 9,
+              "lat": 35.6035061,
+              "lng": 139.748251
+            },
+            {
+              "id": 10,
+              "lat": 35.6033199,
+              "lng": 139.7479028
+            },
+            {
+              "id": 11,
+              "lat": 35.6032743,
+              "lng": 139.7478069
+            },
+            {
+              "id": 12,
+              "lat": 35.6032743,
+              "lng": 139.7477146
+            },
+            {
+              "id": 13,
+              "lat": 35.6032515,
+              "lng": 139.7474318
+            },
+            {
+              "id": 14,
+              "lat": 35.6032427,
+              "lng": 139.74716
+            },
+            {
+              "id": 15,
+              "lat": 35.603352,
+              "lng": 139.7467112
+            },
+            {
+              "id": 16,
+              "lat": 35.603466,
+              "lng": 139.74664
+            },
+            {
+              "id": 17,
+              "lat": 35.603504,
+              "lng": 139.746654
+            },
+            {
+              "id": 18,
+              "lat": 35.6035504,
+              "lng": 139.7468116
+            },
+            {
+              "id": 19,
+              "lat": 35.6034295,
+              "lng": 139.7472992
+            },
+            {
+              "id": 20,
+              "lat": 35.6034522,
+              "lng": 139.7473383
+            },
+            {
+              "id": 21,
+              "lat": 35.6038198,
+              "lng": 139.7474771
+            },
+            {
+              "id": 22,
+              "lat": 35.603877,
+              "lng": 139.7474838
+            },
+            {
+              "id": 23,
+              "lat": 35.6038861,
+              "lng": 139.7474726
+            },
+            {
+              "id": 24,
+              "lat": 35.6039761,
+              "lng": 139.7470801
+            },
+            {
+              "id": 25,
+              "lat": 35.6039661,
+              "lng": 139.7470477
+            },
+            {
+              "id": 26,
+              "lat": 35.6038825,
+              "lng": 139.7470198
+            },
+            {
+              "id": 27,
+              "lat": 35.6038679,
+              "lng": 139.7470309
+            },
+            {
+              "id": 28,
+              "lat": 35.6038434,
+              "lng": 139.7471316
+            },
+            {
+              "id": 29,
+              "lat": 35.603827,
+              "lng": 139.7471383
+            },
+            {
+              "id": 30,
+              "lat": 35.6037607,
+              "lng": 139.7471126
+            },
+            {
+              "id": 31,
+              "lat": 35.6037425,
+              "lng": 139.7471215
+            },
+            {
+              "id": 32,
+              "lat": 35.6035964,
+              "lng": 139.7477795
+            },
+            {
+              "id": 33,
+              "lat": 35.6035991,
+              "lng": 139.7478209
+            },
+            {
+              "id": 34,
+              "lat": 35.60368,
+              "lng": 139.7478499
+            },
+            {
+              "id": 35,
+              "lat": 35.6037245,
+              "lng": 139.747813
+            },
+            {
+              "id": 36,
+              "lat": 35.6037164,
+              "lng": 139.7477269
+            },
+            {
+              "id": 37,
+              "lat": 35.6037164,
+              "lng": 139.7476889
+            },
+            {
+              "id": 38,
+              "lat": 35.6037582,
+              "lng": 139.7476587
+            },
+            {
+              "id": 39,
+              "lat": 35.6038136,
+              "lng": 139.747671
+            },
+            {
+              "id": 40,
+              "lat": 35.6038336,
+              "lng": 139.7476341
+            },
+            {
+              "id": 41,
+              "lat": 35.6039836,
+              "lng": 139.7469834
+            },
+            {
+              "id": 42,
+              "lat": 35.60398,
+              "lng": 139.746942
+            },
+            {
+              "id": 43,
+              "lat": 35.6039591,
+              "lng": 139.746895
+            },
+            {
+              "id": 44,
+              "lat": 35.6039282,
+              "lng": 139.7468671
+            },
+            {
+              "id": 45,
+              "lat": 35.6036009,
+              "lng": 139.7467474
+            },
+            {
+              "id": 46,
+              "lat": 35.6035545,
+              "lng": 139.7467799
+            },
+            {
+              "id": 47,
+              "lat": 35.6035382,
+              "lng": 139.7468089
+            },
+            {
+              "id": 48,
+              "lat": 35.6033245,
+              "lng": 139.7477213
+            },
+            {
+              "id": 49,
+              "lat": 35.6033254,
+              "lng": 139.7477717
+            },
+            {
+              "id": 50,
+              "lat": 35.6033409,
+              "lng": 139.7478343
+            },
+            {
+              "id": 51,
+              "lat": 35.6035355,
+              "lng": 139.7481597
+            },
+            {
+              "id": 52,
+              "lat": 35.6035709,
+              "lng": 139.7481798
+            },
+            {
+              "id": 53,
+              "lat": 35.6036255,
+              "lng": 139.7481876
+            },
+            {
+              "id": 54,
+              "lat": 35.6036809,
+              "lng": 139.7481652
+            },
+            {
+              "id": 55,
+              "lat": 35.6037218,
+              "lng": 139.7481116
+            },
+            {
+              "id": 56,
+              "lat": 35.6038355,
+              "lng": 139.7476006
+            },
+            {
+              "id": 57,
+              "lat": 35.6038264,
+              "lng": 139.7475626
+            },
+            {
+              "id": 58,
+              "lat": 35.6037991,
+              "lng": 139.7475402
+            },
+            {
+              "id": 59,
+              "lat": 35.6034109,
+              "lng": 139.7474004
+            },
+            {
+              "id": 60,
+              "lat": 35.6033691,
+              "lng": 139.7473669
+            },
+            {
+              "id": 61,
+              "lat": 35.6035064,
+              "lng": 139.7467698
+            },
+            {
+              "id": 62,
+              "lat": 35.6035491,
+              "lng": 139.7467049
+            },
+            {
+              "id": 63,
+              "lat": 35.60361,
+              "lng": 139.7466915
+            },
+            {
+              "id": 64,
+              "lat": 35.6040064,
+              "lng": 139.7468425
+            },
+            {
+              "id": 65,
+              "lat": 35.6040474,
+              "lng": 139.7468783
+            },
+            {
+              "id": 66,
+              "lat": 35.6040574,
+              "lng": 139.746923
+            },
+            {
+              "id": 67,
+              "lat": 35.6037627,
+              "lng": 139.7481932
+            },
+            {
+              "id": 68,
+              "lat": 35.6037245,
+              "lng": 139.7482558
+            },
+            {
+              "id": 69,
+              "lat": 35.6036545,
+              "lng": 139.7482938
+            },
+            {
+              "id": 70,
+              "lat": 35.6035754,
+              "lng": 139.7482833
+            },
+            {
+              "id": 71,
+              "lat": 35.6035218,
+              "lng": 139.7482408
+            },
+            {
+              "id": 72,
+              "lat": 35.6033318,
+              "lng": 139.7478942
+            },
+            {
+              "id": 73,
+              "lat": 35.603286,
+              "lng": 139.7477996
+            },
+            {
+              "id": 74,
+              "lat": 35.6032933,
+              "lng": 139.7476576
+            },
+            {
+              "id": 75,
+              "lat": 35.6035109,
+              "lng": 139.7467291
+            },
+            {
+              "id": 76,
+              "lat": 35.6035618,
+              "lng": 139.7466811
+            },
+            {
+              "id": 77,
+              "lat": 35.6036073,
+              "lng": 139.746633
+            },
+            {
+              "id": 78,
+              "lat": 35.6037264,
+              "lng": 139.746671
+            }
+          ],
+          "dangers": [
+            {
+              "lat": 35.603768830206626,
+              "lng": 139.74668629274012,
+              "title": {
+                "ja": "1. 乗車前の安全確認 (目視)",
+                "en": "1. Pre-entry Safety Ritual",
+                "zh": "1. 乘车前仪式 ",
+                "zht": "1. 乘車前儀式",
+                "ko": "1. 승차 전 안전 확인",
+                "vi": "1. Nghi thức kiểm tra trước khi lên xe",
+                "km": "1. ការត្រួតពិនិត្យចំណុចងងឹតមុនពេលចូល",
+                "ne": "1. गाडी चढ्नु अघि सुरक्षा जाँच",
+                "id": "1. Ritual Keselamatan Sebelum Masuk",
+                "my": "1. ကားထဲမဝင်မီ ဘေးကင်းရေး စစ်ဆေးခြင်း",
+                "tl": "1. Ritual sa Pagsusuri Bago Pumasok",
+                "ptBR": "1. Ritual de Segurança Pré-entrada"
+              },
+              "subtitle": {
+                "ja": "乗車前に車を一周して安全確認。発進前に右ウインカーを出し、右後方の目視を忘れないでください。",
+                "en": "Check around the car before getting in. Use right signal and check your blind spot before starting.",
+                "zh": "起步前务必绕车一周，调整座椅后视镜，打右灯并回头目视确认右后方死角后再出发。",
+                "zht": "起步前務必繞車一周，調整座椅後視鏡，打右燈並回頭目視確認右後方死角後再出發。",
+                "ko": "승차 전 차량 주변 확인. 출발 전 우측 방향지시등을 켜고 우측 후방 사각지대를 반드시 확인하세요.",
+                "vi": "Kiểm tra xung quanh xe trước khi lên. Bật xi-nhan phải và kiểm tra điểm mù trước khi bắt đầu.",
+                "km": "ពិនិត្យជុំវិញរថយន្តមុនពេលចូល។ ប្រើសញ្ញាខាងស្តាំ និងពិនិត្យមើលចំណុចងងឹតរបស់អ្នកមុនពេលចាប់ផ្តើម။",
+                "ne": "गाडीमा चढ्नु अघि वरिपरि जाँच गर्नुहोस्। सुरु गर्नु अघि दायाँ सिग्नल दिनुहोस् र ब्लाइन्ड स्पट जाँच गर्नुहोस्।",
+                "id": "Periksa sekeliling mobil sebelum masuk. Gunakan lampu sein kanan dan cek titik buta sebelum mulai.",
+                "my": "ကားထဲမဝင်မီ ကားပတ်ပတ်လည်ကို စစ်ဆေးပါ။ မစတင်မီ ညာဘက်အချက်ပြမီးပြပြီး မျက်ကွယ်အမှတ်ကို စစ်ဆေးပါ။",
+                "tl": "Suriin ang paligid ng kotse bago pumasok. Gumamit ng kanang signal at suriin ang iyong blind spot bago magsimula.",
+                "ptBR": "Verifique ao redor do carro antes de entrar. Use a seta para a direita e verifique o ponto cego antes de partir."
+              }
+            },
+            {
+              "lat": 35.60382594612074,
+              "lng": 139.7474799952555,
+              "title": {
+                "ja": "2. 見落としやすい一時停止線",
+                "en": "2. Silent STOP Line",
+                "zh": "2. 无声的停止线",
+                "zht": "2. 無聲的停止線",
+                "ko": "2. 간과하기 쉬운 일시정지선",
+                "vi": "2. Vạch dừng dễ bị bỏ qua",
+                "km": "2. ខ្សែសញ្ញាឈប់ដែលងាយនឹងមើលរំលង",
+                "ne": "2. बेवास्ता गरिएको स्टप लाइन",
+                "id": "2. Garis Berhenti Tersembunyi",
+                "my": "၂။ သတိမထားမိနိုင်သော ရပ်ရန်မျဉ်း",
+                "tl": "2. Nakatagong STOP Line",
+                "ptBR": "2. Linha de Parada Silenciosa"
+              },
+              "subtitle": {
+                "ja": "試験官はここで一時停止があることを教えてくれません。白線を越えずに、3秒間完全に停止してください。左右の安全をしっかり目視で確認してから発進します。",
+                "en": "The examiner will not remind you about the stop line here. Do not cross the white line; stop completely for 3 seconds. Check left and right thoroughly before starting.",
+                "zh": "考官绝不会提醒这里有停止线。车头不可越过白线，必须彻底刹死 3 秒。左右夸张扭头确认后方可起步。",
+                "zht": "考官絕不會提醒這裡有停止線。車頭不可越過白線，必須徹底剎死 3 秒。左右誇張扭頭確認後方可起步。",
+                "ko": "시험관은 이곳에 정지선이 있다는 것을 알려주지 않습니다. 흰색 선을 넘지 말고 3초간 완전 정지하세요. 좌우를 확실히 확인한 후 출발하십시오。",
+                "vi": "Giám khảo sẽ không nhắc bạn về vạch dừng ở đây. Không đè lên vạch trắng; dừng hẳn trong 3 giây. Kiểm tra kỹ hai bên trước khi bắt đầu。",
+                "km": "អ្នកត្រួតពិនិត្យនឹងមិនរំលึกអ្នកអំពីខ្សែសញ្ញាឈប់នៅទីនេះទេ។ ហាមឆ្លងកាត់ខ្សែពណ៌ស ត្រូវឈប់ឱ្យស្ងៀមរយៈពេល ៣ វិនាទី។",
+                "ne": "परीक्षकले यहाँ स्टप लाइन भएको कुरा सम्झाउने छैनन्। सेतो रेखा पार नगर्नुहोस्; ३ सेकेन्डका लागि पूर्ण रूपमा रोकिनुहोस्। सुरु गर्नु अघि दायाँ बायाँ राम्रोसँग जाँच गर्नुहोस्।",
+                "id": "Penguji tidak akan mengingatkan ada garis berhenti di sini. Jangan melewati garis putih; berhenti total selama 3 detik. Cek kiri dan kanan dengan teliti sebelum jalan。",
+                "my": "စာမေးပွဲစစ်သူသည် ဤနေရာတွင် ရပ်ရန်မျဉ်းရှိကြောင်း သတိပေးမည်မဟုတ်ပါ။ အဖြူရောင်မျဉ်းကို မကျော်ပါနှင့်၊ ၃ စက္ကန့်ကြာ လုံးဝရပ်ပါ။ မထွက်ခွာမီ ဘယ်ညာကို သေချာကြည့်ပါ။",
+                "tl": "Hindi magpapaalala ang examiner tungkol sa stop line dito. Huwag lumampas sa puting linya; huminto nang tuluyan nang 3 segundo. Suriin ang kaliwa at kanan bago magsimula。",
+                "ptBR": "O examinador não o lembrará da linha de parada aqui. Não cruze a linha branca; pare completamente por 3 segundos. Verifique cuidadosamente para a esquerda e para a direita antes de partir。"
+              }
+            },
+            {
+              "lat": 35.60350566612861,
+              "lng": 139.74666093429357,
+              "title": {
+                "ja": "3. 見落としやすい一時停止線",
+                "en": "3. Silent STOP Line",
+                "zh": "3. 无声的停止线",
+                "zht": "3. 無聲的停止線",
+                "ko": "3. 간과하기 쉬운 일시정지선",
+                "vi": "3. Vạch dừng dễ bị bỏ qua",
+                "km": "3. ខ្សែសញ្ញាឈប់ដែលងាយនឹងមើលរំលង",
+                "ne": "3. बेवास्ता गरिएको स्टप लाइन",
+                "id": "3. Garis Berhenti Tersembunyi",
+                "my": "၃။ သတိမထားမိနိုင်သော ရပ်ရန်မျဉ်း",
+                "tl": "3. Nakatagong STOP Line",
+                "ptBR": "3. Linha de Parada Silenciosa"
+              },
+              "subtitle": {
+                "ja": "試験官はここで一時停止があることを教えてくれません。白線を越えずに、3秒間完全に停止してください。左右の安全をしっかり目視で確認してから発進します。",
+                "en": "The examiner will not remind you about the stop line here. Do not cross the white line; stop completely for 3 seconds. Check left and right thoroughly before starting.",
+                "zh": "考官绝不会提醒这里有停止线。车头不可越过白线，必须彻底刹死 3 秒。左右夸张扭头确认后方可起步。",
+                "zht": "考官絕不會提醒這裡有停止線。車頭不可越過白線，必須徹底剎死 3 秒。左右誇張扭頭確認後方可起步。",
+                "ko": "시험관은 이곳에 정지선이 있다는 것을 알려주지 않습니다. 흰색 선을 넘지 말고 3초간 완전 정지하세요. 좌우를 확실히 확인한 후 출발하십시오。",
+                "vi": "Giám khảo sẽ không nhắc bạn về vạch dừng ở đây. Không đè lên vạch trắng; dừng hẳn trong 3 giây. Kiểm tra kỹ hai bên trước khi bắt đầu。",
+                "km": "អ្នកត្រួតពិនិត្យនឹងមិនរំលึกអ្នកអំពីខ្សែសញ្ញាឈប់នៅទីនេះទេ។ ហាមឆ្លងកាត់ខ្សែពណ៌ស ត្រូវឈប់ឱ្យស្ងៀមរយៈពេល ៣ វិនាទី។",
+                "ne": "परीक्षकले यहाँ स्टप लाइन भएको कुरा सम्झाउने छैनन्। सेतो रेखा पार नगर्नुहोस्; ३ सेकेन्डका लागि पूर्ण रूपमा रोकिनुहोस्। सुरु गर्नु अघि दायाँ बायाँ राम्रोसँग जाँच गर्नुहोस्।",
+                "id": "Penguji tidak akan mengingatkan ada garis berhenti di sini. Jangan melewati garis putih; berhenti total selama 3 detik. Cek kiri dan kanan dengan teliti sebelum jalan。",
+                "my": "စာမေးပွဲစစ်သူသည် ဤနေရာတွင် ရပ်ရန်မျဉ်းရှိကြောင်း သတိပေးမည်မဟုတ်ပါ။ အဖြူရောင်မျဉ်းကို มကျော်ပါနှင့်၊ ၃ စက္ကန့်ကြာ လုံးဝရပ်ပါ။ မထွက်ခွာမီ ဘယ်ညာကို သေချာကြည့်ပါ။",
+                "tl": "Hindi magpapaalala ang examiner tungkol sa stop line dito. Huwag lumampas sa puting linya; huminto nang tuluyan nang 3 segundo. Suriin ang kaliwa at kanan bago magsimula。",
+                "ptBR": "O examinador não o lembrará da linha de parada aqui. Não cruze a linha branca; pare completamente por 3 segundos. Verifique cuidadosamente para a esquerda e para a direita antes de partir。"
+              }
+            },
+            {
+              "lat": 35.60394423082383,
+              "lng": 139.74723064534916,
+              "title": {
+                "ja": "4. 恐怖の左寄せ (巻き込み防止)",
+                "en": "4. Fatal Left Turn Alignment",
+                "zh": "4. 死亡左转贴边",
+                "zht": "4. 死亡左轉貼邊",
+                "ko": "4. 공포의 좌측 밀착 (감점 주의)",
+                "vi": "4. Bám sát lề trái tử thần",
+                "km": "4. ការរក្សាទៅខាងឆ្វេងដែលគ្រោះថ្នាក់",
+                "ne": "4. खतरनाक बायाँ मोडिने साइड",
+                "id": "4. Merapat ke Kiri yang Fatal",
+                "my": "၄။ ကြောက်စရာကောင်းသော ဘယ်ဘက်ကပ်မောင်းခြင်း",
+                "tl": "4. Fatal na Pagpapakaliwa",
+                "ptBR": "4. Alinhamento à Esquerda Fatal"
+              },
+              "subtitle": {
+                "ja": "鮫洲の最難関！交差点の30m手前で左合図・左死角を目視し、車を左端から30cm以内に寄せてください。二輪車の進入を完全に防がないと即不合格です！",
+                "en": "The hardest part of Samezu! Signal left 30m before, check blind spot, and pull within 30cm of the curb. You must block cyclists completely or you will fail!",
+                "zh": "鮫洲最严考点！距路口30米处必须打左灯、回头看左死角，并将车死死贴住左侧路沿（绝不能超过30厘米），彻底封死自行车的路！",
+                "zht": "鮫洲最嚴考點！距路口30米處必須打左燈、回頭看左死角，並將車死死貼住左側路沿（絕不能超過30厘米），徹底封死自行车的路！",
+                "ko": "사메즈 시험장의 가장 어려운 부분! 교차로 30m 전 좌측 방향등을 켜고 사각지대를 확인하며, 연석에서 30cm 이내로 밀착하세요. 이륜차 진입을 차단하지 않으면 즉시 불합격입니다!",
+                "vi": "Phần khó nhất ở Samezu! Bật xi-nhan trái trước 30m, kiểm tra điểm mù và bám sát lề trong vòng 30cm. Phải chặn hoàn toàn xe máy nếu không sẽ trượt ngay lập tức!",
+                "km": "ផ្នែកដែលពិបាកបំផុតនៃ Samezu! ឱ្យសញ្ញាឆ្វេង ៣០ ម៉ែត្រមុន ពិនិត្យចំណុចងងឹត និងចូលទៅជិតក្នុងរង្វង់ ៣០ សង់ទីម៉ែត្រពីចិញ្ចើមផ្លូវ។ ត្រូវតែបិទផ្លូវអ្នកជិះកង់ឱ្យជិត បើមិនដូច្នេះទេអ្នកនឹងធ្លាក់!",
+                "ne": "सामेजुको सबैभन्दा कठिन भाग! ३० मिटर अगाडि बायाँ सिग्नल दिनुहोस्, ब्लाइन्ड स्पट जाँच गर्नुहोस्, और किनाराबाट ३० सेमी भित्र च्याप्नुहोस्। मोटरसाइकललाई रोक्नै पर्छ अन्यथा तपाईं फेल हुनुहुनेछ!",
+                "id": "Bagian tersulit di Samezu! Beri sein kiri 30m sebelum, cek titik buta, dan merapat dalam 30cm dari trotoar. Anda harus menutup celah motor sepenuhnya atau Anda akan gagal!",
+                "my": "ဆာမေးဇူး၏ အခက်ခဲဆုံးအပိုင်း။ လမ်းဆုံမရောက်မီ ၃၀ မီတာမှ ဘယ်ဘက်မီးပြပါ၊ မျက်ကွယ်အမှတ်ကို စစ်ဆေးပြီး လမ်းဘေးမှ ၃၀ စင်တီမီတာအတွင်း ကပ်ပါ။ ဆိုင်ကယ်များကို လုံးဝပိတ်မောင်းရပါမည်၊ မဟုတ်ပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Ang pinakamahirap na bahagi sa Samezu! Mag-signal sa kaliwa 30m bago ang kanto, suriin ang blind spot, at dumikit sa loob ng 30cm ng bangketa. Dapat harangan ang mga motor o babagsak ka!",
+                "ptBR": "A parte mais difícil de Samezu! Sinalize para a esquerda 30m antes, verifique o ponto cego e aproxime-se a menos de 30cm do meio-fio. Você deve bloquear ciclistas totalmente ou será reprovado!"
+              }
+            },
+            {
+              "lat": 35.6037949016057,
+              "lng": 139.74784313371907,
+              "title": {
+                "ja": "5. 障害物回避 (駐車車両)",
+                "en": "5. Road Obstacle Avoidance",
+                "zh": "5. 直道障碍物",
+                "zht": "5. 直道障礙物",
+                "ko": "5. 장애물 회피 (주차 차량)",
+                "vi": "5. Tránh vật cản trên đường",
+                "km": "5. ការជៀសវាងឧបសគ្គនៅលើផ្លូវ",
+                "ne": "5. सडकमा अवरोध हटाउने",
+                "id": "5. Penghindaran Halangan Jalan",
+                "my": "၅။ လမ်းပေါ်ရှိ အတားအဆီးကို ရှောင်ခြင်း",
+                "tl": "5. Pag-iwas sa Obstakulo sa Daan",
+                "ptBR": "5. Desvio de Obstáculo na Estrada"
+              },
+              "subtitle": {
+                "ja": "前方にトラックやコーンがある場合があります。事前に右合図を出し、侧方を通過する際は1m以上の間隔を空けてください。不安な場合は一時停止！",
+                "en": "Trucks or cones may be ahead. Signal right in advance and maintain at least 1m clearance when passing. If unsure, stop!",
+                "zh": "前方可能停有大卡车或摆放路锥！必须提前打右灯借道，侧面通过时保持至少 1 米（一扇车门）的安全距离。如果不确定能否通过，宁可停车！",
+                "zht": "前方可能停有大卡車或擺放路錐！必須提前打右燈借道，側面通過時保持至少 1 米（一扇車門）的安全距離。如果不確定能否通過，寧可停車！",
+                "ko": "전방에 트럭이나 라바콘이 있을 수 있습니다. 미리 우측 방향등을 켜고 통과 시 1m 이상의 간격을 유지하세요. 불안하면 일단 정지!",
+                "vi": "Có thể có xe tải hoặc cọc tiêu phía trước. Bật xi-nhan phải trước và giữ khoảng cách ít nhất 1m khi vượt qua. Nếu không chắc chắn, hãy dừng lại!",
+                "km": "អាចមានឡានដឹកទំនិញ ឬកោណនៅខាងមុខ។ ឱ្យសញ្ញាស្តាំជាមុន និងរក្សាចម្ងាយយ៉ាងតិច ១ ម៉ែត្រ។ បើមិនច្បាស់ ត្រូវឈប់!",
+                "ne": "अगाडि ट्रक वा कोनहरू हुन सक्छन्। पहिले नै दायाँ सिग्नल दिनुहोस् र पार गर्दा कम्तिमा १ मिटरको दूरी राख्नुहोस्। निश्चित नभएมา रोकिनुहोस्!",
+                "id": "Mungkin ada truk atau kerucut di depan. Beri sein kanan sebelumnya dan jaga jarak minimal 1m saat lewat. Jika tidak yakin, berhentilah!",
+                "my": "ရှေ့တွင် ကုန်တင်ကား သို့မဟုတ် လမ်းကွန်များ ရှိနိုင်ပါသည်။ ကြိုတင်၍ ညာဘက်မီးပြပါ၊ ကျော်တက်စဉ် အနည်းဆုံး ၁ မီတာ ခွာမောင်းပါ။ မသေချာပါက ရပ်ပါ။",
+                "tl": "Maaaring may trak o cones sa harap. Mag-signal sa kanan nang maaga at lumayo ng hindi bababa sa 1m. Kung hindi sigurado, huminto!",
+                "ptBR": "Pode haver caminhões ou cones à frente. Sinalize para a direita com antecedência e mantenha pelo menos 1m de distância ao passar. Se não tiver certeza, pare!"
+              }
+            },
+            {
+              "lat": 35.603250567379405,
+              "lng": 139.74743921422424,
+              "title": {
+                "ja": "6. 踏切通過の罠",
+                "en": "6. Railroad Crossing Trap",
+                "zh": "6. 铁道口生死劫",
+                "zht": "6. 鐵道口生死劫",
+                "ko": "6. 철길 건널목 확인",
+                "vi": "6. Bẫy đường ray xe lửa",
+                "km": "6. អន្ទាក់ផ្លូវឆ្លងកាត់ផ្លូវរថភ្លើង",
+                "ne": "6. रेलवे क्रसिङ पासो",
+                "id": "6. Jebakan Perlintasan KA",
+                "my": "၆။ မီးရထားလမ်းကူး ထောင်ချောက်",
+                "tl": "6. Bitag sa Riles ng Tren",
+                "ptBR": "6. Armadilha de Passagem de Nível"
+              },
+              "subtitle": {
+                "ja": "停止線の前で必ず一時停止！窓を（5cm以上）開け、左右を目視して音を確認してください。前方に十分なスペースがあることを确认し、ギアを変えずに一気に通過します。",
+                "en": "Stop completely before the line! Open the window (at least 5cm), check both sides, and listen for trains. Ensure there is space ahead and cross steadily without shifting gears.",
+                "zh": "停止线前必须彻底刹停！必须摇下车窗（至少5厘米），探头看左右并倾听声音。确认前方有空间后，一脚油门不换挡直接通过！",
+                "zht": "停止線前必須徹底剎停！必須搖下車窗（至少5厘米），探頭看左右並傾聽聲音！確認前方有空間後，一腳油門不換擋直接通過！",
+                "ko": "정지선 앞에서 반드시 일시정지! 창문을(5cm 이상) 열고 좌우를 살피며 소리를 확인하세요. 전방에 충분한 공간이 있는지 확인한 후 기어 변속 없이 한 번에 통과하십시오。",
+                "vi": "Phải dừng lại hoàn toàn trước vạch dừng! Phải hạ cửa sổ xe (ít nhất 5cm), nhìn quanh hai bên và lắng nghe âm thanh. Sau khi xác nhận có đủ khoảng trống phía trước, nhấn ga đi thẳng mà không sang số!",
+                "km": "ត្រូវតែឈប់ឱ្យស្ងៀមនៅមុខខ្សែសញ្ញាឈប់! ត្រូវតែបើកបង្អួចរថយន្ត (យ៉ាងហោចណាស់ ៥ សង់ទីម៉ែត្រ) សម្លឹងមើលឆ្វេងស្តាំ និងស្តាប់សំឡេង。 បន្ទាប់ពីបញ្ជាក់ថាមានកន្លែងនៅខាងមុខហើយ សូមជាន់ហ្គែរឆ្លងកាត់ដោយមិនប្តូរលេខ!",
+                "ne": "स्टप लाइन अगाडि पूर्ण रूपमा रोकिनुहोस्! विन्डो (कम्तिमा ५ सेमी) खोल्नुहोस्, दुबै तर्फ हेर्नुहोस् र आवाज सुन्नုहोस्। अगाडि पर्याप्त ठाउँ भएको पुष्टि भएपछि, गियर परिवर्तन नगरी एकै पटक पार गर्नुहोस्!",
+                "id": "Harus berhenti total sebelum garis berhenti! Harus buka jendela (minimal 5cm), tengok kiri-kanan dan dengarkan suara。 Setelah memastikan ada ruang di depan, injak gas dan lewat tanpa oper gigi!",
+                "my": "ရပ်ရန်မျဉ်းရှေ့တွင် လုံးဝရပ်ပါ။ ပြတင်းပေါက်ကို (အနည်းဆုံး ၅ စင်တီမီတာ) ဖွင့်ပါ၊ ဘယ်ညာကြည့်ပြီး အသံနားထောင်ပါ။ ရှေ့တွင် နေရာလွတ်ရှိကြောင်း အတည်ပြုပြီးပါက ဂီယာမချိန်းဘဲ အရှိန်ဖြင့် တစ်ခါတည်း ဖြတ်မောင်းပါ။",
+                "tl": "Dapat huminto nang tuluyan bago ang stop line! Buksan ang bintana (kahit 5cm), tingnan ang kaliwa't kanan at makinig。 Siguraduhing may sapat na espasyo sa harap at dumeretso nang hindi nagpapalit ng gear!",
+                "ptBR": "Pare completamente antes da linha de parada! Abra a janela (pelo menos 5cm), olhe para os dois lados e ouça。 Após confirmar que há espaço à frente, acelere e passe sem trocar de marcha!"
+              }
+            },
+            {
+              "lat": 35.60368877408395,
+              "lng": 139.74749046177507,
+              "title": {
+                "ja": "7. 恐怖の横断歩道 (歩行者優先)",
+                "en": "7. Fatal Crosswalk (Pedestrian Priority)",
+                "zh": "7. 致命斑马线",
+                "zht": "7. 致命斑馬線",
+                "ko": "7. 공포의 횡단보도 (보행자 보호)",
+                "vi": "7. Vạch kẻ đường tử thần",
+                "km": "7. ផ្លូវថ្មើរជើងដែលគ្រោះថ្នាក់",
+                "ne": "7. खतरनाक जेब्रा क्रसिङ",
+                "id": "7. Penyeberangan Pejalan Kaki Fatal",
+                "my": "၇။ ကြောက်စရာကောင်းသော လူကူးမျဉ်းကြား",
+                "tl": "7. Fatal na Tawiran ng Tao",
+                "ptBR": "7. Faixa de Pedestres Fatal"
+              },
+              "subtitle": {
+                "ja": "試験官やスタッフが横断歩道のそばに立っている場合、すぐにブレーキに足を乗せて停止の準備をしてください。歩行者が渡ろうとする動作を少しでも見せたら、必ず一時停止してください。",
+                "en": "If staff are standing near the crosswalk, keep your foot on the brake ready to stop. If they show any intent to cross, you MUST stop immediately. Never rush through!",
+                "zh": "只要有工作人员假装站在斑马线旁边，您的右脚必须立刻踩在刹车上准备随时停下。只要他有抬腿的动作，必须立刻刹停，绝不可抢行！",
+                "zht": "只要有工作人員假裝站在斑馬線旁邊，您的右腳必須立刻踩在剎車上準備隨時停下。只要他有抬腿的動作，必須立刻剎停，絕不可搶行！",
+                "ko": "요원이나 스태프가 횡단보도 근처에 서 있는 경우, 즉시 브레이크에 발을 올리고 멈출 준비를 하세요. 보행자가 건너려는 기색이 조금이라도 보이면 반드시 정지해야 합니다。",
+                "vi": "Nếu có nhân viên đứng gần vạch kẻ đường, hãy đặt chân lên phanh sẵn sàng dừng lại. Nếu họ có ý định sang đường, bạn PHẢI dừng lại ngay lập tức!",
+                "km": "ប្រសិនបើមានបុគ្គលិកឈរក្បែរផ្លូវថ្មើរជើង សូមដាក់ជើងលើហ្វ្រាំងដើម្បីត្រៀមឈប់。 ប្រសិនបើពួកគេបង្ហាញសញ្ញាចង់ឆ្លង ត្រូវតែឈប់ជាបន្ទាន់!",
+                "ne": "यदि कर्मचारीहरू जेब्रा क्रसिङ नजिकै उभिएका छन् भने, जुनसुकै बेลา रोकिनका लागि आफ्नो खुट्टा ब्रेकमा राख्नुहोस्। यदि उनीहरूले हिँड्न खोजेमा, तुरुन्तै रोकिनुपर्छ!",
+                "id": "Jika staf berdiri di dekat penyeberangan, segera siapkan kaki di rem。 Jika họ menunjukkan gerakan ingin menyeberang, Anda WAJIB segera berhenti!",
+                "my": "ဝန်ထမ်းများ လူကူးမျဉ်းကြားအနီးတွင် ရှိနေပါက ချက်ချင်းရပ်ရန် ဘရိတ်ပေါ်ခြေတင်ထားပါ။ ၎င်းတို့ လမ်းကူးမည့်အရိပ်အယောင်ပြပါက လုံးဝရပ်ပေးရပါမည်။",
+                "tl": "Kung may mga staff na nakatayo malapit sa tawiran, ihanda ang paa sa brake。 Kung magpapakita sila ng senyales na tatawid, DAPAT huminto agad!",
+                "ptBR": "Se houver funcionários perto da faixa, mantenha o pé no freio pronto para parar。 Se eles mostrarem qualquer intenção de atravessar, você DEVE parar imediatamente!"
+              }
+            },
+            {
+              "lat": 35.60397140119264,
+              "lng": 139.7471122201559,
+              "title": {
+                "ja": "8. S字・クランク脱輪注意",
+                "en": "8. S-Curve / Crank Wheel Derailment",
+                "zh": "8. S弯/直角弯脱轮",
+                "zht": "8. S彎/直角彎脫輪",
+                "ko": "8. S자·크랭크 탈륜 주의",
+                "vi": "8. Chú ý đè vạch đường chữ S/vuông góc",
+                "km": "8. ការប្រុងប្រយ័ត្នកិនចិញ្ចើមផ្លូវអក្សរ S/បត់កែង",
+                "ne": "8. एस-घुम्ती/क्र्यांकमा टायर चढ्ने जोखिम",
+                "id": "8. Waspada Trotoar Jalur S/Siku",
+                "my": "၈။ S-ကွေ့/ထောင့်ချိုးလမ်းကြောင်း နင်းမိနိုင်ခြေ",
+                "tl": "8. S-Curve / Crank Wheel Derailment",
+                "ptBR": "8. Cuidado com o Meio-fio na Curva em S/L"
+              },
+              "subtitle": {
+                "ja": "鮫洲のコースは非常に狭いです！後輪が縁石に乗り上げそうになったら、すぐにブレーキをかけて停止してください。その場でバックしてやり直せば合格の可能性がありますが、そのまま進むと即不合格です！",
+                "en": "Samezu's curves are extremely narrow! If you feel the rear wheel is about to hit the curb, brake immediately! You can reverse and try again, but driving over the curb is an automatic failure!",
+                "zh": "鮫洲的弯道极窄！万一感觉后轮要压上马路牙子，立刻踩死刹车！原地挂倒挡往后退（允许重试），心存侥幸硬开过去直接不及格！",
+                "zht": "鮫洲的彎道極窄！萬一感覺後輪要壓上馬路牙子，立刻踩死剎車！原地掛倒擋往後退（允許重試），心存僥倖硬開過去直接不及格！",
+                "ko": "사메즈의 커브는 매우 좁습니다! 뒷바퀴가 연석에 올라탈 것 같으면 즉시 브레이크를 밟으세요! 그 자리에서 후진하여 다시 시도하면 합격 가능성이 있지만, 그대로 진행하면 즉시 불합격입니다!",
+                "vi": "Khúc cua ở Samezu rất hẹp! Nếu cảm thấy bánh sau sắp đè lên vỉa hè, hãy đạp phanh ngay lập tức! Bạn có thể lùi lại và thử lại, nhưng nếu cố tình đi qua sẽ bị đánh trượt ngay!",
+                "km": "ផ្លូវកោងរបស់ Samezu គឺចង្អៀតណាស់! ប្រសិនបើអ្នកមានអារម្មណ៍ថាកង់ក្រោយជិតនឹងកិនចិញ្ចើមផ្លូវ សូមជាន់ហ្វ្រាំងជាបន្ទាន់! អ្នកអាចថយក្រោយដើម្បីសាកល្បងម្ដងទៀត ប៉ុន្តែប្រសិនបើអ្នកបន្តទៅមុខនឹងត្រូវធ្លាក់ភ្លាមៗ!",
+                "ne": "सामेजुको घुम्तीहरू एकदमै साँघुरा छन्! यदि पछाडिको पाङ्ग्रा किनारामा चढ्न लागेको महसुस भएमा, तुरुन्तै ब्रेक लगाउनुहोस्! तपाईं ब्याक गरेर पुन: प्रयास गर्न सक्नुहुन्छ, तर जबरजस्ती अगाडि बढेमा तुरुन्तै फेल हुनुहुनेछ!",
+                "id": "Tikungan Samezu sangat sempit! Jika merasa roda belakang akan menabrak trotoar, segera injak rem! Anda boleh mundur dan mencoba lagi, tapi jika memaksakan lewat akan langsung tidak lulus!",
+                "my": "ဆာမေးဇူး၏ ကွေ့များသည် အလွန်ကျဉ်းပါသည်။ နောက်ဘီးသည် လမ်းဘေးနင်းမိတော့မည်ဟု ခံစားရပါက ချက်ချင်းဘရိတ်အုပ်ပါ။ နောက်ဆုတ်ပြီး ပြန်ကြိုးစားနိုင်သော်လည်း ဇွတ်မောင်းပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Napakakipot ng mga kurba sa Samezu! Kung mararamdaman mong tatama ang gulong sa gilid, mag-preno agad! Maaari kang umatras at sumubok muli, pero kung itutuloy mo ay babagsak ka agad!",
+                "ptBR": "As curvas de Samezu são extremamente estreitas! Se sentir que a roda traseira vai subir no meio-fio, freie imediatamente! Você pode dar ré e tentar de novo, mas se continuar será reprovado automaticamente!"
+              }
+            },
+            {
+              "lat": 35.60359064428795,
+              "lng": 139.74778907901438,
+              "title": {
+                "ja": "[Bコース] 9. S字・クランク脱輪注意",
+                "en": "[Route B] 9. S-Curve / Crank Wheel Derailment",
+                "zh": "[B路线] 9. S弯/直角弯脱轮",
+                "zht": "[B路線] 9. S彎/直角彎脫輪",
+                "ko": "[B코스] 9. S자·크랭크 탈륜 주의",
+                "vi": "[Tuyến B] 9. Chú ý đè vạch đường chữ S/vuông góc",
+                "km": "[ផ្លូវ B] 9. ការប្រុងប្រយ័ត្នកិនចិញ្ចើមផ្លូវអក្សរ S/បត់កែង",
+                "ne": "[रुट बी] 9. एस-घुम्ती/क्र्यांकमा टायर चढ्ने जोखिम",
+                "id": "[Rute B] 9. Waspada Trotoar Jalur S/Siku",
+                "my": "[လမ်းကြောင်း B] ၉။ S-ကွေ့/ထောင့်ချိုးလမ်းကြောင်း နင်းမိနိုင်ခြေ",
+                "tl": "[Ruta B] 9. S-Curve / Crank Wheel Derailment",
+                "ptBR": "[Rota B] 9. Cuidado com o Meio-fio na Curva em S/L"
+              },
+              "subtitle": {
+                "ja": "鮫洲のコースは非常に狭いです！後輪が縁石に乗り上げそうになったら、すぐにブレーキをかけて停止してください。その場でバックしてやり直せば合格の可能性がありますが、そのまま進むと即不合格です！",
+                "en": "Samezu's curves are extremely narrow! If you feel the rear wheel is about to hit the curb, brake immediately! You can reverse and try again, but driving over the curb is an automatic failure!",
+                "zh": "鮫洲的弯道极窄！万一感觉后轮要压上马路牙子，立刻踩死刹车！原地挂倒挡往后退（允许重试），心存侥幸硬开过去直接不及格！",
+                "zht": "鮫洲的彎道極窄！萬一感覺後輪要壓上馬路牙子，立刻踩死剎車！原地掛倒擋往後退（允許重試），心存僥倖硬開過去直接不及格！",
+                "ko": "사메즈의 커브는 매우 좁습니다! 뒷바퀴가 연석에 올라탈 것 같으면 즉시 브레이크를 밟으세요! 그 자리에서 후진하여 다시 시도하면 합격 가능성이 있지만, 그대로 진행하면 즉시 불합격입니다!",
+                "vi": "Khúc cua ở Samezu rất hẹp! Nếu cảm thấy bánh sau sắp đè lên vỉa hè, hãy đạp phanh ngay lập tức! Bạn có thể lùi lại và thử lại, nhưng nếu cố tình đi qua sẽ bị đánh trượt ngay!",
+                "km": "ផ្លូវកោងរបស់ Samezu គឺចង្អៀតណាស់! ប្រសិនបើអ្នកមានអារម្មណ៍ថាកង់ក្រោយជិតនឹងកិនចិញ្ចើមផ្លូវ សូមជាន់ហ្វ្រាំងជាបន្ទាន់! អ្នកអាចថយក្រោយដើម្បីសាកល្បងម្ដងទៀត ប៉ុន្តែប្រសិនបើអ្នកបន្តទៅមុខនឹងត្រូវធ្លាក់ភ្លាមៗ!",
+                "ne": "सामेजुको घुम्तीहरू एकदमै साँघुरा छन्! यदि पछाडिको पाङ्ग्रा किनारामा चढ्न लागेको महसुस भएमा, तुरुन्तै ब्रेक लगाउनुहोस्! तपाईं ब्याक गरेर पुन: प्रयास गर्न सक्नुहुन्छ, तर जबरजस्ती अगाडि बढेमा तुरुन्तै फेल हुनुहुनेछ!",
+                "id": "Tikungan Samezu sangat sempit! Jika merasa roda belakang akan menabrak trotoar, segera injak rem! Anda boleh mundur dan mencoba lagi, tapi jika memaksakan lewat akan langsung tidak lulus!",
+                "my": "ဆာမေးဇူး၏ ကွေ့များသည် အလွန်ကျဉ်းပါသည်။ နောက်ဘီးသည် လမ်းဘေးနင်းမိတော့မည်ဟု ခံစားရပါက ချက်ချင်းဘရိတ်အုပ်ပါ။ နောက်ဆုတ်ပြီး ပြန်ကြိုးစားနိုင်သော်လည်း ဇွတ်မောင်းပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Napakakipot ng mga kurba sa Samezu! Kung mararamdaman mong tatama ang gulong sa gilid, mag-preno agad! Maaari kang umatras at sumubok muli, pero kung itutuloy mo ay babagsak ka agad!",
+                "ptBR": "As curvas de Samezu são extremamente estreitas! Se sentir que a roda traseira vai subir no meio-fio, freie imediatamente! Você pode dar ré e tentar de novo, mas se continuar será reprovado automaticamente!"
+              }
+            }
+          ],
+          "directions": [
+            {
+              "id": "B_dir_1",
+              "lat": 35.60384863662467,
+              "lng": 139.74671618373011,
+              "heading": 15.0
+            },
+            {
+              "id": "B_dir_2",
+              "lat": 35.603262688676026,
+              "lng": 139.74758291542216,
+              "heading": 260.0
+            },
+            {
+              "id": "B_dir_3",
+              "lat": 35.60351647365039,
+              "lng": 139.74669899191605,
+              "heading": 60.0
+            },
+            {
+              "id": "B_dir_4",
+              "lat": 35.603480194245236,
+              "lng": 139.7473498486678,
+              "heading": 15.0
+            },
+            {
+              "id": "B_dir_5",
+              "lat": 35.603919753583035,
+              "lng": 139.7470322891096,
+              "heading": 190.0
+            },
+            {
+              "id": "B_dir_6",
+              "lat": 35.603856972291055,
+              "lng": 139.74754400021885,
+              "heading": 280.0
+            },
+            {
+              "id": "B_dir_7",
+              "lat": 35.60353245211209,
+              "lng": 139.74684417228755,
+              "heading": 110.0
+            },
+            {
+              "id": "B_dir_8",
+              "lat": 35.603731777670184,
+              "lng": 139.74751504029953,
+              "heading": 190.0
+            },
+            {
+              "id": "B_dir_9",
+              "lat": 35.6034270411547,
+              "lng": 139.7471247953643,
+              "heading": 280.0
+            },
+            {
+              "id": "B_dir_10",
+              "lat": 35.60347514160592,
+              "lng": 139.7468768075754,
+              "heading": 280.0
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "name": "C 路线",
+          "polyline": [
+            {
+              "id": 0,
+              "lat": 35.6037894,
+              "lng": 139.7466997
+            },
+            {
+              "id": 1,
+              "lat": 35.604053,
+              "lng": 139.7468016
+            },
+            {
+              "id": 2,
+              "lat": 35.6040672,
+              "lng": 139.7468618
+            },
+            {
+              "id": 3,
+              "lat": 35.6040655,
+              "lng": 139.7469385
+            },
+            {
+              "id": 4,
+              "lat": 35.6037884,
+              "lng": 139.748146
+            },
+            {
+              "id": 5,
+              "lat": 35.6037715,
+              "lng": 139.7482063
+            },
+            {
+              "id": 6,
+              "lat": 35.6037457,
+              "lng": 139.7482545
+            },
+            {
+              "id": 7,
+              "lat": 35.603703,
+              "lng": 139.7482939
+            },
+            {
+              "id": 8,
+              "lat": 35.6036424,
+              "lng": 139.7483147
+            },
+            {
+              "id": 9,
+              "lat": 35.6035899,
+              "lng": 139.748307
+            },
+            {
+              "id": 10,
+              "lat": 35.603532,
+              "lng": 139.7482709
+            },
+            {
+              "id": 11,
+              "lat": 35.6035017,
+              "lng": 139.748238
+            },
+            {
+              "id": 12,
+              "lat": 35.6033227,
+              "lng": 139.747904
+            },
+            {
+              "id": 13,
+              "lat": 35.6032791,
+              "lng": 139.7478098
+            },
+            {
+              "id": 14,
+              "lat": 35.6032523,
+              "lng": 139.7474308
+            },
+            {
+              "id": 15,
+              "lat": 35.6032407,
+              "lng": 139.7471555
+            },
+            {
+              "id": 16,
+              "lat": 35.6033471,
+              "lng": 139.7467147
+            },
+            {
+              "id": 17,
+              "lat": 35.603461,
+              "lng": 139.7466489
+            },
+            {
+              "id": 18,
+              "lat": 35.603502,
+              "lng": 139.7466654
+            },
+            {
+              "id": 19,
+              "lat": 35.6035332,
+              "lng": 139.7467212
+            },
+            {
+              "id": 20,
+              "lat": 35.6035341,
+              "lng": 139.74681
+            },
+            {
+              "id": 21,
+              "lat": 35.6033221,
+              "lng": 139.7477344
+            },
+            {
+              "id": 22,
+              "lat": 35.6033319,
+              "lng": 139.7477946
+            },
+            {
+              "id": 23,
+              "lat": 35.6033399,
+              "lng": 139.7478318
+            },
+            {
+              "id": 24,
+              "lat": 35.6035367,
+              "lng": 139.748167
+            },
+            {
+              "id": 25,
+              "lat": 35.6036017,
+              "lng": 139.7481878
+            },
+            {
+              "id": 26,
+              "lat": 35.6036519,
+              "lng": 139.7481798
+            },
+            {
+              "id": 27,
+              "lat": 35.6036911,
+              "lng": 139.7481579
+            },
+            {
+              "id": 28,
+              "lat": 35.6037374,
+              "lng": 139.7480977
+            },
+            {
+              "id": 29,
+              "lat": 35.603919,
+              "lng": 139.7472915
+            },
+            {
+              "id": 30,
+              "lat": 35.603911,
+              "lng": 139.7472543
+            },
+            {
+              "id": 31,
+              "lat": 35.603838,
+              "lng": 139.7472269
+            },
+            {
+              "id": 32,
+              "lat": 35.6038211,
+              "lng": 139.7472412
+            },
+            {
+              "id": 33,
+              "lat": 35.6037997,
+              "lng": 139.7473332
+            },
+            {
+              "id": 34,
+              "lat": 35.603781,
+              "lng": 139.7473485
+            },
+            {
+              "id": 35,
+              "lat": 35.6037107,
+              "lng": 139.7473211
+            },
+            {
+              "id": 36,
+              "lat": 35.6036608,
+              "lng": 139.7472053
+            },
+            {
+              "id": 37,
+              "lat": 35.60374,
+              "lng": 139.7468668
+            },
+            {
+              "id": 38,
+              "lat": 35.6037347,
+              "lng": 139.7468241
+            },
+            {
+              "id": 39,
+              "lat": 35.6037169,
+              "lng": 139.7467912
+            },
+            {
+              "id": 40,
+              "lat": 35.6037017,
+              "lng": 139.746777
+            },
+            {
+              "id": 41,
+              "lat": 35.6036189,
+              "lng": 139.7467474
+            },
+            {
+              "id": 42,
+              "lat": 35.6035833,
+              "lng": 139.7467671
+            },
+            {
+              "id": 43,
+              "lat": 35.603553,
+              "lng": 139.7468044
+            },
+            {
+              "id": 44,
+              "lat": 35.6035397,
+              "lng": 139.7468263
+            },
+            {
+              "id": 45,
+              "lat": 35.6034328,
+              "lng": 139.747294
+            },
+            {
+              "id": 46,
+              "lat": 35.6034462,
+              "lng": 139.7473279
+            },
+            {
+              "id": 47,
+              "lat": 35.6034622,
+              "lng": 139.7473575
+            },
+            {
+              "id": 48,
+              "lat": 35.6035664,
+              "lng": 139.7473947
+            },
+            {
+              "id": 49,
+              "lat": 35.6036207,
+              "lng": 139.7474473
+            },
+            {
+              "id": 50,
+              "lat": 35.6036456,
+              "lng": 139.7474966
+            },
+            {
+              "id": 51,
+              "lat": 35.6036572,
+              "lng": 139.7475316
+            },
+            {
+              "id": 52,
+              "lat": 35.603594,
+              "lng": 139.7477912
+            },
+            {
+              "id": 53,
+              "lat": 35.6036011,
+              "lng": 139.7478208
+            },
+            {
+              "id": 54,
+              "lat": 35.6036679,
+              "lng": 139.7478471
+            },
+            {
+              "id": 55,
+              "lat": 35.6037124,
+              "lng": 139.7478328
+            },
+            {
+              "id": 56,
+              "lat": 35.6037311,
+              "lng": 139.7477945
+            },
+            {
+              "id": 57,
+              "lat": 35.6037142,
+              "lng": 139.7477036
+            },
+            {
+              "id": 58,
+              "lat": 35.6037311,
+              "lng": 139.7476686
+            },
+            {
+              "id": 59,
+              "lat": 35.6037739,
+              "lng": 139.7476576
+            },
+            {
+              "id": 60,
+              "lat": 35.6038104,
+              "lng": 139.7476697
+            },
+            {
+              "id": 61,
+              "lat": 35.6038246,
+              "lng": 139.7476576
+            },
+            {
+              "id": 62,
+              "lat": 35.6039829,
+              "lng": 139.7469887
+            },
+            {
+              "id": 63,
+              "lat": 35.6039829,
+              "lng": 139.7469384
+            },
+            {
+              "id": 64,
+              "lat": 35.6039713,
+              "lng": 139.746911
+            },
+            {
+              "id": 65,
+              "lat": 35.6039562,
+              "lng": 139.7468924
+            },
+            {
+              "id": 66,
+              "lat": 35.6039383,
+              "lng": 139.7468737
+            },
+            {
+              "id": 67,
+              "lat": 35.6039241,
+              "lng": 139.7468617
+            },
+            {
+              "id": 68,
+              "lat": 35.6038894,
+              "lng": 139.7468475
+            },
+            {
+              "id": 69,
+              "lat": 35.6038395,
+              "lng": 139.7468277
+            },
+            {
+              "id": 70,
+              "lat": 35.6038146,
+              "lng": 139.746842
+            },
+            {
+              "id": 71,
+              "lat": 35.6037878,
+              "lng": 139.7468967
+            },
+            {
+              "id": 72,
+              "lat": 35.6035216,
+              "lng": 139.7480577
+            },
+            {
+              "id": 73,
+              "lat": 35.6034851,
+              "lng": 139.7481026
+            },
+            {
+              "id": 74,
+              "lat": 35.6034503,
+              "lng": 139.7480993
+            },
+            {
+              "id": 75,
+              "lat": 35.6034397,
+              "lng": 139.7480851
+            },
+            {
+              "id": 76,
+              "lat": 35.6033364,
+              "lng": 139.7478891
+            },
+            {
+              "id": 77,
+              "lat": 35.6032989,
+              "lng": 139.7478146
+            },
+            {
+              "id": 78,
+              "lat": 35.6032945,
+              "lng": 139.7477532
+            },
+            {
+              "id": 79,
+              "lat": 35.6035207,
+              "lng": 139.7467719
+            },
+            {
+              "id": 80,
+              "lat": 35.6035661,
+              "lng": 139.7467193
+            },
+            {
+              "id": 81,
+              "lat": 35.6036186,
+              "lng": 139.7467105
+            },
+            {
+              "id": 82,
+              "lat": 35.6036505,
+              "lng": 139.7467098
+            },
+            {
+              "id": 83,
+              "lat": 35.6036718,
+              "lng": 139.7467109
+            },
+            {
+              "id": 84,
+              "lat": 35.6040333,
+              "lng": 139.7468589
+            },
+            {
+              "id": 85,
+              "lat": 35.6040512,
+              "lng": 139.7468775
+            },
+            {
+              "id": 86,
+              "lat": 35.6040538,
+              "lng": 139.746918
+            },
+            {
+              "id": 87,
+              "lat": 35.6040521,
+              "lng": 139.7469673
+            },
+            {
+              "id": 88,
+              "lat": 35.603768,
+              "lng": 139.7481852
+            },
+            {
+              "id": 89,
+              "lat": 35.6037493,
+              "lng": 139.7482236
+            },
+            {
+              "id": 90,
+              "lat": 35.6037315,
+              "lng": 139.748252
+            },
+            {
+              "id": 91,
+              "lat": 35.603711,
+              "lng": 139.7482718
+            },
+            {
+              "id": 92,
+              "lat": 35.6036807,
+              "lng": 139.7482893
+            },
+            {
+              "id": 93,
+              "lat": 35.6036504,
+              "lng": 139.7483002
+            },
+            {
+              "id": 94,
+              "lat": 35.6036086,
+              "lng": 139.7482959
+            },
+            {
+              "id": 95,
+              "lat": 35.6035685,
+              "lng": 139.7482794
+            },
+            {
+              "id": 96,
+              "lat": 35.6035347,
+              "lng": 139.7482531
+            },
+            {
+              "id": 97,
+              "lat": 35.6035071,
+              "lng": 139.7482148
+            },
+            {
+              "id": 98,
+              "lat": 35.6034732,
+              "lng": 139.74816
+            },
+            {
+              "id": 99,
+              "lat": 35.6034643,
+              "lng": 139.7480549
+            },
+            {
+              "id": 100,
+              "lat": 35.6035827,
+              "lng": 139.7475511
+            },
+            {
+              "id": 101,
+              "lat": 35.6035925,
+              "lng": 139.747493
+            },
+            {
+              "id": 102,
+              "lat": 35.6035774,
+              "lng": 139.7474602
+            },
+            {
+              "id": 103,
+              "lat": 35.6034162,
+              "lng": 139.7474021
+            },
+            {
+              "id": 104,
+              "lat": 35.6033699,
+              "lng": 139.7473563
+            },
+            {
+              "id": 105,
+              "lat": 35.6035168,
+              "lng": 139.7467298
+            },
+            {
+              "id": 106,
+              "lat": 35.6035596,
+              "lng": 139.7466806
+            },
+            {
+              "id": 107,
+              "lat": 35.6036014,
+              "lng": 139.7466302
+            },
+            {
+              "id": 108,
+              "lat": 35.6037893,
+              "lng": 139.7466981
+            }
+          ],
+          "dangers": [
+            {
+              "lat": 35.603765996092925,
+              "lng": 139.74668963492692,
+              "title": {
+                "ja": "1. 乗車前の安全確認 (目視)",
+                "en": "1. Pre-entry Safety Ritual",
+                "zh": "1. 乘车前仪式 (乗車前の確認)",
+                "zht": "1. 乘車前儀式 (乗車前の確認)",
+                "ko": "1. 승차 전 안전 확인",
+                "vi": "1. Nghi thức kiểm tra trước khi lên xe",
+                "km": "1. ការត្រួតពិនិត្យចំណុចងងឹតមុនពេលចូល",
+                "ne": "1. गाडी चढ्नु अघि सुरक्षा जाँच",
+                "id": "1. Ritual Keselamatan Sebelum Masuk",
+                "my": "1. ကားထဲမဝင်မီ ဘေးကင်းရေး စစ်ဆေးခြင်း",
+                "tl": "1. Ritual sa Pagsusuri Bago Pumasok",
+                "ptBR": "1. Ritual de Segurança Pré-entrada"
+              },
+              "subtitle": {
+                "ja": "乗車前に車を一周して安全確認。発進前に右ウインカーを出し、右後方の目視を忘れないでください。",
+                "en": "Check around the car before getting in. Use right signal and check your blind spot before starting.",
+                "zh": "起步前务必绕车一周，调整座椅后视镜，打右灯并回头目视确认右后方死角后再出发。",
+                "zht": "起步前務必繞車一周，調整座椅後視鏡，打右燈並回頭目視確認右後方死角後再出發。",
+                "ko": "승차 전 차량 주변 확인. 출발 전 우측 방향지시등을 켜고 우측 후방 사각지대를 반드시 확인하세요.",
+                "vi": "Kiểm tra xung quanh xe trước khi lên. Bật xi-nhan phải và kiểm tra điểm mù trước khi bắt đầu.",
+                "km": "ពិនិត្យជុំវិញរថយន្តមុនពេលចូល។ ប្រើសញ្ញាខាងស្តាំ និងពិនិត្យមើលចំណុចងងឹតរបស់អ្នកមុនពេលចាប់ផ្តើម။",
+                "ne": "गाडीमा चढ्नु अघि वरिपरि जाँच गर्नुहोस्। सुरु गर्नु अघि दायाँ सिग्नल दिनुहोस् र ब्लाइन्ड स्पट जाँच गर्नुहोस्।",
+                "id": "Periksa sekeliling mobil sebelum masuk. Gunakan lampu sein kanan dan cek titik buta sebelum mulai.",
+                "my": "ကားထဲမဝင်မီ ကားပတ်ပတ်လည်ကို စစ်ဆေးပါ။ မစတင်မီ ညာဘက်အချက်ပြမီးပြပြီး မျက်ကွယ်အမှတ်ကို စစ်ဆေးပါ။",
+                "tl": "Suriin ang paligid ng kotse bago pumasok. Gumamit ng kanang signal at suriin ang iyong blind spot bago magsimula.",
+                "ptBR": "Verifique ao redor do carro antes de entrar. Use a seta para a direita e verifique o ponto cego antes de partir."
+              }
+            },
+            {
+              "lat": 35.60373844596037,
+              "lng": 139.7468770686549,
+              "title": {
+                "ja": "2. 見落としやすい一時停止線",
+                "en": "2. Silent STOP Line",
+                "zh": "2. 无声的停止线",
+                "zht": "2. 無聲的停止線",
+                "ko": "2. 간과하기 쉬운 일시정지선",
+                "vi": "2. Vạch dừng dễ bị bỏ qua",
+                "km": "2. ខ្សែសញ្ញាឈប់ដែលងាយនឹងមើលរំលង",
+                "ne": "2. बेवास्ता गरिएको स्टप लाइन",
+                "id": "2. Garis Berhenti Tersembunyi",
+                "my": "၂။ သတိမထားမိနိုင်သော ရပ်ရန်မျဉ်း",
+                "tl": "2. Nakatagong STOP Line",
+                "ptBR": "2. Linha de Parada Silenciosa"
+              },
+              "subtitle": {
+                "ja": "試験官はここで一時停止があることを教えてくれません。白線を越えずに、3秒間完全に停止してください。左右の安全をしっかり目視で確認してから発進します。",
+                "en": "The examiner will not remind you about the stop line here. Do not cross the white line; stop completely for 3 seconds. Check left and right thoroughly before starting.",
+                "zh": "考官绝不会提醒这里有停止线。车头不可越过白线，必须彻底刹死 3 秒。左右夸张扭头确认后方可起步。",
+                "zht": "考官絕不會提醒這裡有停止線。車頭不可越過白線，必須徹底剎死 3 秒。左右誇張扭頭確認後方可起步。",
+                "ko": "시험관은 이곳에 정지선이 있다는 것을 알려주지 않습니다. 흰색 선을 넘지 말고 3초간 완전 정지하세요. 좌우를 확실히 확인한 후 출발하십시오。",
+                "vi": "Giám khảo sẽ không nhắc bạn về vạch dừng ở đây. Không đè lên vạch trắng; dừng hẳn trong 3 giây. Kiểm tra kỹ hai bên trước khi bắt đầu。",
+                "km": "អ្នកត្រួតពិនិត្យនឹងមិនរំលึกអ្នកអំពីខ្សែសញ្ញាឈប់នៅទីនេះទេ។ ហាមឆ្លងកាត់ខ្សែពណ៌ស ត្រូវឈប់ឱ្យស្ងៀមរយៈពេល ３ វិនាទី។",
+                "ne": "परीक्षकले यहाँ स्टप लाइन भएको कुरा सम्झाउने छैनन्। सेतो रेखा पार नगर्नुहोस्; ३ सेकेन्डका लागि पूर्ण रूपमा रोकिनुहोस्। सुरु गर्नु अघि दायाँ बायाँ राम्रोसँग जाँच गर्नुहोस्।",
+                "id": "Penguji tidak akan mengingatkan ada garis berhenti di sini. Jangan melewati garis putih; berhenti total selama 3 detik. Cek kiri dan kanan dengan teliti sebelum jalan。",
+                "my": "စာမေးပွဲစစ်သူသည် ဤနေရာတွင် ရပ်ရန်မျဉ်းရှိကြောင်း သတိပေးမည်မဟုတ်ပါ။ အဖြူရောင်မျဉ်းကို မကျော်ပါနှင့်၊ ၃ စက္ကန့်ကြာ လုံးဝရပ်ပါ။ မထွက်ခွာမီ ဘယ်ညာကို သေချာကြည့်ပါ။",
+                "tl": "Hindi magpapaalala ang examiner tungkol sa stop line dito. Huwag lumampas sa puting linya; huminto nang tuluyan nang 3 segundo. Suriin ang kaliwa at kanan bago magsimula。",
+                "ptBR": "O examinador não o lembrará da linha de parada aqui. Não cruze a linha branca; pare completamente por 3 segundos. Verifique cuidadosamente para a esquerda e para a direita antes de partir。"
+              }
+            },
+            {
+              "lat": 35.60350566612861,
+              "lng": 139.74666093429357,
+              "title": {
+                "ja": "3. 見落としやすい一時停止線",
+                "en": "3. Silent STOP Line",
+                "zh": "3. 无声的停止线",
+                "zht": "3. 無聲的停止線",
+                "ko": "3. 간과하기 쉬운 일시정지선",
+                "vi": "3. Vạch dừng dễ bị bỏ qua",
+                "km": "3. ខ្សែសញ្ញាឈប់ដែលងាយនឹងមើលរំលង",
+                "ne": "3. बेवास्ता गरिएको स्टप लाइन",
+                "id": "3. Garis Berhenti Tersembunyi",
+                "my": "၃။ သတိမထားမိနိုင်သော ရပ်ရန်မျဉ်း",
+                "tl": "3. Nakatagong STOP Line",
+                "ptBR": "3. Linha de Parada Silenciosa"
+              },
+              "subtitle": {
+                "ja": "試験官はここで一時停止があることを教えてくれません。白線を越えずに、3秒間完全に停止してください。左右の安全をしっかり目視で確認してから発進します。",
+                "en": "The examiner will not remind you about the stop line here. Do not cross the white line; stop completely for 3 seconds. Check left and right thoroughly before starting.",
+                "zh": "考官绝不会提醒这里有停止线。车头不可越过白线，必须彻底刹死 3 秒。左右夸张扭头确认后方可起步。",
+                "zht": "考官絕不會提醒這裡有停止線。車頭不可越過白線，必須徹底剎死 3 秒。左右誇張扭頭確認後方可起步。",
+                "ko": "시험관은 이곳에 정지선이 있다는 것을 알려주지 않습니다. 흰색 선을 넘지 말고 3초간 완전 정지하세요. 좌우를 확실히 확인한 후 출발하십시오。",
+                "vi": "Giám khảo sẽ không nhắc bạn về vạch dừng ở đây. Không đè lên vạch trắng; dừng hẳn trong 3 giây. Kiểm tra kỹ hai bên trước khi bắt đầu。",
+                "km": "អ្នកត្រួតពិនិត្យនឹងមិនរំលึกអ្នកអំពីខ្សែសញ្ញាឈប់នៅទីនេះទេ។ ហាមឆ្លងកាត់ខ្សែពណ៌ស ត្រូវឈប់ឱ្យស្ងៀមរយៈពេល ៣ វិនាទី។",
+                "ne": "परीक्षकले यहाँ स्टप लाइन भएको कुরা सम्झाउने छैनन्। सेतो रेखा पार नगर्नुहोस्; ३ सेकेन्डका लागि पूर्ण रूपमा रोकिनुहोस्। सुरु गर्नु अघि दायाँ बायाँ राम्रोसँग जाँच गर्नुहोस्।",
+                "id": "Penguji tidak akan mengingatkan ada garis berhenti di sini. Jangan melewati garis putih; berhenti total selama 3 detik. Cek kiri dan kanan dengan teliti sebelum jalan。",
+                "my": "စာမေးပွဲစစ်သူသည် ဤနေရာတွင် ရပ်ရန်မျဉ်းရှိကြောင်း သတိပေးမည်မဟုတ်ပါ။ အဖြူရောင်မျဉ်းကို မကျော်ပါနှင့်၊ ၃ စက္ကန့်ကြာ လုံးဝရပ်ပါ။ မထွက်ခွာမီ ဘယ်ညာကို သေချာကြည့်ပါ။",
+                "tl": "Hindi magpapaalala ang examiner tungkol sa stop line dito. Huwag lumampas sa puting linya; huminto nang tuluyan nang 3 segundo. Suriin ang kaliwa at kanan bago magsimula。",
+                "ptBR": "O examinador não o lembrará da linha de parada aqui. Não cruze a linha branca; pare completamente por 3 segundos. Verifique cuidadosamente para a esquerda e para a direita antes de partir。"
+              }
+            },
+            {
+              "lat": 35.60389406021652,
+              "lng": 139.7474128891227,
+              "title": {
+                "ja": "4. 恐怖の左寄せ (巻き込み防止)",
+                "en": "4. Fatal Left Turn Alignment",
+                "zh": "4. 死亡左转贴边",
+                "zht": "4. 死亡左轉貼邊",
+                "ko": "4. 공포의 좌측 밀착 (감점 주의)",
+                "vi": "4. Bám sát lề trái tử thần",
+                "km": "4. ការរក្សាទៅខាងឆ្វេងដែលគ្រោះថ្នាក់",
+                "ne": "4. खतरनाक बायाँ मोडिने साइड",
+                "id": "4. Merapat ke Kiri yang Fatal",
+                "my": "၄။ ကြောက်စရာကောင်းသော ဘယ်ဘက်ကပ်မောင်းခြင်း",
+                "tl": "4. Fatal na Pagpapakaliwa",
+                "ptBR": "4. Alinhamento à Esquerda Fatal"
+              },
+              "subtitle": {
+                "ja": "鮫洲の最難関！交差点の30m手前で左合図・左死角を目視し、車を左端から30cm以内に寄せてください。二輪車の進入を完全に防がないと即不合格です！",
+                "en": "The hardest part of Samezu! Signal left 30m before, check blind spot, and pull within 30cm of the curb. You must block cyclists completely or you will fail!",
+                "zh": "鮫洲最严考点！距路口30米处必须打左灯、回头看左死角，并将车死死贴住左侧路沿（绝不能超过30厘米），彻底封死自行车的路！",
+                "zht": "鮫洲最嚴考點！距路口30米處必須打左燈、回頭看左死角，並將車死死貼住左側路沿（絕不能超過30厘米），徹底封死自行车的路！",
+                "ko": "사메즈 시험장의 가장 어려운 부분! 교차로 30m 전 좌측 방향등을 켜고 사각지대를 확인하며, 연석에서 30cm 이내로 밀착하세요. 이륜차 진입을 차단하지 않으면 즉시 불합격입니다!",
+                "vi": "Phần khó nhất ở Samezu! Bật xi-nhan trái trước 30m, kiểm tra điểm mù và bám sát lề trong vòng 30cm. Phải chặn hoàn toàn xe máy nếu không sẽ trượt ngay lập tức!",
+                "km": "ផ្នែកដែលពិបាកបំផុតនៃ Samezu! ឱ្យសញ្ញាឆ្វេង ៣០ ម៉ែត្រមុន ពិនិត្យចំណុចងងឹត និងចូលទៅជិតក្នុងរង្វង់ ៣០ សង់ទីម៉ែត្រពីចិញ្ចើមផ្លូវ។ ត្រូវតែបិទផ្លូវអ្នកជិះកង់ឱ្យជិត បើមិនដូច្នេះទេអ្នកនឹងធ្លាក់!",
+                "ne": "सामेजुको सबैभन्दा कठिन भाग! ३० मिटर अगाडि बायाँ सिग्नल दिनुहोस्, ब्लाइन्ड स्पट जाँच गर्नुहोस्, र किनाराबाट ३० सेमी भित्र च्याप्नुहोस्। मोटरसाइकललाई रोක්नै पर्छ अन्यथा तपाईं फेल हुनुहुनेछ!",
+                "id": "Bagian tersulit di Samezu! Beri sein kiri 30m sebelum, cek titik buta, dan merapat dalam 30cm dari trotoar. Anda harus menutup celah motor sepenuhnya atau Anda akan gagal!",
+                "my": "ဆာမေးဇူး၏ အခက်ခဲဆုံးအပိုင်း။ လမ်းဆုံမရောက်မီ ၃၀ မီတာမှ ဘယ်ဘက်မီးပြပါ၊ မျက်ကွယ်အမှတ်ကို စစ်ဆေးပြီး လမ်းဘေးမှ ၃၀ စင်တီမီတာအတွင်း ကပ်ပါ။ ဆိုင်ကယ်များကို လုံးဝပိတ်မောင်းရပါမည်၊ မဟုတ်ပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Ang pinakamahirap na bahagi sa Samezu! Mag-signal sa kaliwa 30m bago ang kanto, suriin ang blind spot, at dumikit sa loob ng 30cm ng bangketa. Dapat harangan ang mga motor o babagsak ka!",
+                "ptBR": "A parte mais difícil de Samezu! Sinalize para a esquerda 30m antes, verifique o ponto cego e aproxime-se a menos de 30cm do meio-fio. Você deve bloquear ciclistas totalmente ou será reprovado!"
+              }
+            },
+            {
+              "lat": 35.6037949016057,
+              "lng": 139.74784313371907,
+              "title": {
+                "ja": "5. 障害物回避 (駐車車両)",
+                "en": "5. Road Obstacle Avoidance",
+                "zh": "5. 直道障碍物",
+                "zht": "5. 直道障礙物",
+                "ko": "5. 장애물 회피 (주차 차량)",
+                "vi": "5. Tránh vật cản trên đường",
+                "km": "5. ការជៀសវាងឧបសគ្គនៅលើផ្លូវ",
+                "ne": "5. सडकमा अवरोध हटाउने",
+                "id": "5. Penghindaran Halangan Jalan",
+                "my": "၅။ လမ်းပေါ်ရှိ အတားအဆီးကို ရှောင်ခြင်း",
+                "tl": "5. Pag-iwas sa Obstakulo sa Daan",
+                "ptBR": "5. Desvio de Obstáculo na Estrada"
+              },
+              "subtitle": {
+                "ja": "前方にトラックやコーンがある場合があります。事前に右合図を出し、側方を通過する際は1m以上の間隔を空けてください。不安な場合は一時停止！",
+                "en": "Trucks or cones may be ahead. Signal right in advance and maintain at least 1m clearance when passing. If unsure, stop!",
+                "zh": "前方可能停有大卡车或摆放路锥！必须提前打右灯借道，侧面通过时保持至少 1 米（一扇车门）的安全距离。如果不确定能否通过，宁可停车！",
+                "zht": "前方可能停有大卡車或擺放路錐！必須提前打右燈借道，側面通過時保持至少 1 米（一扇車門）的安全距離。如果不確定能否通過，寧可停車！",
+                "ko": "전방에 트럭이나 라바콘이 있을 수 있습니다. 미리 우측 방향등을 켜고 통과 시 1m 이상의 간격을 유지하세요. 불안하면 일단 정지!",
+                "vi": "Có thể có xe tải hoặc cọc tiêu phía trước. Bật xi-nhan phải trước và giữ khoảng cách ít nhất 1m khi vượt qua. Nếu không chắc chắn, hãy dừng lại!",
+                "km": "អាចមានឡានដឹកទំនិញ ឬកោណនៅខាងមុខ។ ឱ្យសញ្ញាស្តាំជាមុន និងរក្សាចម្ងាយយ៉ាងតិច ១ ម៉ែត្រ។ បើមិនច្បាស់ ត្រូវឈប់!",
+                "ne": "अगाडि ट्रक वा कोनहरू हुन सक्छन्। पहिले नै दायाँ सिग्नल दिनुहोस् र पार गर्दा कम्तिमा १ मिटरको दूरी राख्नुहोस्। निश्चित नभएमा रोकिनुहोस्!",
+                "id": "Mungkin ada truk atau kerucut di depan. Beri sein kanan sebelumnya dan jaga jarak minimal 1m saat lewat. Jika tidak yakin, berhentilah!",
+                "my": "ရှေ့တွင် ကုန်တင်ကား သို့မဟုတ် လမ်းကွန်များ ရှိနိုင်ပါသည်။ ကြိုတင်၍ ညာဘက်မီးပြပါ၊ ကျော်တက်စဉ် အနည်းဆုံး ၁ မီတာ ခွာမောင်းပါ။ မသေချာပါက ရပ်ပါ။",
+                "tl": "Maaaring may trak o cones sa harap. Mag-signal sa kanan nang maaga at lumayo ng hindi bababa sa 1m. Kung hindi sigurado, huminto!",
+                "ptBR": "Pode haver caminhões ou cones à frente. Sinalize para a direita com antecedência e mantenha pelo menos 1m de distância ao passar. Se não tiver certeza, pare!"
+              }
+            },
+            {
+              "lat": 35.603250567379405,
+              "lng": 139.74743921422424,
+              "title": {
+                "ja": "6. 踏切通過の罠",
+                "en": "6. Railroad Crossing Trap",
+                "zh": "6. 铁道口生死劫",
+                "zht": "6. 鐵道口生死劫",
+                "ko": "6. 철길 건널목 확인",
+                "vi": "6. Bẫy đường ray xe lửa",
+                "km": "6. អន្ទាក់ផ្លូវឆ្លងកាត់ផ្លូវរថភ្លើង",
+                "ne": "6. रेलवे क्रसिङ पासो",
+                "id": "6. Jebakan Perlintasan KA",
+                "my": "၆။ မီးရထားလမ်းကူး ထောင်ချောက်",
+                "tl": "6. Bitag sa Riles ng Tren",
+                "ptBR": "6. Armadilha de Passagem de Nível"
+              },
+              "subtitle": {
+                "ja": "停止線の前で必ず一時停止！窓を（5cm以上）開け、左右を目視して音を確認してください。前方に十分なスペースがあることを確認し、ギアを変えずに一気に通過します。",
+                "en": "Stop completely before the line! Open the window (at least 5cm), check both sides, and listen for trains. Ensure there is space ahead and cross steadily without shifting gears.",
+                "zh": "停止线前必须彻底刹停！必须摇下车窗（至少5厘米），探头看左右并倾听声音。确认前方有空间后，一脚油门不换挡直接通过！",
+                "zht": "停止線前必須徹底剎停！必須搖下車窗（至少5厘米），探頭看左右並傾聽聲音！確認前方有空間後，一腳油門不換擋直接通過！",
+                "ko": "정지선 앞에서 반드시 일시정지! 창문을(5cm 이상) 열고 좌우를 살피며 소리를 확인하세요. 전방에 충분한 공간이 있는지 확인한 후 기어 변속 없이 한 번에 통과하십시오。",
+                "vi": "Phải dừng lại hoàn toàn trước vạch dừng! Phải hạ cửa sổ xe (ít nhất 5cm), nhìn quanh hai bên và lắng nghe âm thanh. Sau khi xác nhận có đủ khoảng trống phía trước, nhấn ga đi thẳng mà không sang số!",
+                "km": "ត្រូវតែឈប់ឱ្យស្ងៀមនៅមុខខ្សែសញ្ញាឈប់! ត្រូវតែបើកបង្អួចរថយន្ត (យ៉ាងហោចណាស់ ៥ សង់ទីម៉ែត្រ) សម្លឹងមើលឆ្វេងស្តាំ និងស្តាប់សំឡេង។ បន្ទាប់ពីបញ្ជាក់ថាមានកន្លែងនៅខាងមុខហើយ សូមជាន់ហ្គែរឆ្លងកាត់ដោយមិនប្តូរលេខ!",
+                "ne": "स्टप लाइन अगाडि पूर्ण रूपमा रोकिनुहोस्! विन्डो (कम्तिमा ५ सेमी) खोल्नुहोस्, दुबै तर्फ हेर्नुहोस् र आवाज सुन्नुहोस्। अगाडि पर्याप्त ठाउँ भएको पुष्टि भएपछि, गियर परिवर्तन नगरी एकै पटक पार गर्नुहोस्!",
+                "id": "Harus berhenti total sebelum garis berhenti! Harus buka jendela (minimal 5cm), tengok kiri-kanan dan dengarkan suara。 Setelah memastikan ada ruang di depan, injak gas dan lewat tanpa oper gigi!",
+                "my": "ရပ်ရန်မျဉ်းရှေ့တွင် လုံးဝရပ်ပါ။ ပြတင်းပေါက်ကို (အနည်းဆုံး ၅ စင်တီမီတာ) ဖွင့်ပါ၊ ဘယ်ညာကြည့်ပြီး အသံနားထောင်ပါ။ ရှေ့တွင် နေရာလွတ်ရှိကြောင်း အတည်ပြုပြီးပါက ဂီယာမချိန်းဘဲ အရှိန်ဖြင့် တစ်ခါတည်း ဖြတ်မောင်းပါ။",
+                "tl": "Dapat huminto nang tuluyan bago ang stop line! Buksan ang bintana (kahit 5cm), tingnan ang kaliwa't kanan at makinig。 Siguraduhing may sapat na espasyo sa harap at dumeretso nang hindi nagpapalit ng gear!",
+                "ptBR": "Pare completamente antes da linha de parada! Abra a janela (pelo menos 5cm), olhe para os dois lados e ouça。 Após confirmar que há espaço à frente, acelere e passe sem trocar de marcha!"
+              }
+            },
+            {
+              "lat": 35.60368439983913,
+              "lng": 139.7473835105799,
+              "title": {
+                "ja": "7. 恐怖の横断歩道 (歩行者優先)",
+                "en": "7. Fatal Crosswalk (Pedestrian Priority)",
+                "zh": "7. 致命斑马线",
+                "zht": "7. 致命斑馬線",
+                "ko": "7. 공포의 횡단보도 (보행자 보호)",
+                "vi": "7. Vạch kẻ đường tử thần",
+                "km": "7. ផ្លូវថ្មើរជើងដែលគ្រោះថ្នាក់",
+                "ne": "7. खतरनाक जेब्रा क्रसिङ",
+                "id": "7. Penyeberangan Pejalan Kaki Fatal",
+                "my": "၇။ ကြောက်စရာကောင်းသော လူကူးမျဉ်းကြား",
+                "tl": "7. Fatal na Tawiran ng Tao",
+                "ptBR": "7. Faixa de Pedestres Fatal"
+              },
+              "subtitle": {
+                "ja": "試験官やスタッフが横断歩道のそばに立っている場合、すぐにブレーキに足を乗せて停止の準備をしてください。歩行者が渡ろうとする動作を少しでも見せたら、必ず一時停止してください。",
+                "en": "If staff are standing near the crosswalk, keep your foot on the brake ready to stop. If they show any intent to cross, you MUST stop immediately. Never rush through!",
+                "zh": "只要有工作人员假装站在斑马线旁边，您的右脚必须立刻踩在刹车上准备随时停下。只要他有抬腿的动作，必须立刻刹停，绝不可抢行！",
+                "zht": "只要有工作人員假裝站在斑馬線旁邊，您的右腳必須立刻踩在剎車上準備隨時停下。只要他有抬腿的動作，必須立刻剎停，絕不可搶行！",
+                "ko": "요원이나 스태프가 횡단보도 근처에 서 있는 경우, 즉시 브레이크에 발을 올리고 멈출 준비를 하세요. 보행자가 건너려는 기색이 조금이라도 보이면 반드시 정지해야 합니다。",
+                "vi": "Nếu có nhân viên đứng gần vạch kẻ đường, hãy đặt chân lên phanh sẵn sàng dừng lại. Nếu họ có ý định sang đường, bạn PHẢI dừng lại ngay lập tức!",
+                "km": "ប្រសិនបើមានបុគ្គលិកឈរក្បែរផ្លូវថ្មើរជើង សូមដាក់ជើងលើហ្វ្រាំងដើម្បីត្រៀមឈប់។ ប្រសិនបើពួកគេបង្ហាញសញ្ញាចង់ឆ្លង ត្រូវតែឈប់ជាបន្ទាន់!",
+                "ne": "यदि कर्मचारीहरू जेब्रा क्रसिङ नजिकै उभिएका छन् भने, जुनसुकै बेลา रोकिनកាបានសម្រាប់ខ្លួនឯង ត្រូវតែឈប់ជាបន្ទាន់!",
+                "id": "Jika staf berdiri di dekat penyeberangan, segera siapkan kaki di rem。 Jika họ menunjukkan gerakan ingin menyeberang, Anda WAJIB segera berhenti!",
+                "my": "ဝန်ထမ်းများ လူကူးမျဉ်းကြားအနီးတွင် ရှိနေပါက ချက်ချင်းရပ်ရန် ဘရိတ်ပေါ်ခြေတင်ထားပါ။ ၎င်းတို့ လမ်းကူးမည့်အရိပ်အယောင်ပြပါက လုံးဝရပ်ပေးရပါမည်။",
+                "tl": "Kung may mga staff na nakatayo malapit sa tawiran, ihanda ang paa sa brake。 Kung magpapakita sila ng senyales na tatawid, DAPAT huminto agad!",
+                "ptBR": "Se houver funcionários perto da faixa, mantenha o pé no freio pronto para parar。 Se eles mostrarem qualquer intenção de atravessar, você DEVE parar imediatamente!"
+              }
+            },
+            {
+              "lat": 35.60389147054002,
+              "lng": 139.7472476906177,
+              "title": {
+                "ja": "8. S字・クランク脱輪注意",
+                "en": "8. S-Curve / Crank Wheel Derailment",
+                "zh": "8. S弯/直角弯脱轮",
+                "zht": "8. S彎/直角彎脫輪",
+                "ko": "8. S자·크랭크 탈륜 주의",
+                "vi": "8. Chú ý đè vạch đường chữ S/vuông góc",
+                "km": "8. ការប្រុងប្រយ័ត្នកិនចិញ្ចើមផ្លូវអក្សរ S/បត់កែង",
+                "ne": "8. एस-घुम्ती/क्र्यांकमा टायर चढ्ने जोखिम",
+                "id": "8. Waspada Trotoar Jalur S/Siku",
+                "my": "၈။ S-ကွေ့/ထောင့်ချိုးလမ်းကြောင်း နင်းမိနိုင်ခြေ",
+                "tl": "8. S-Curve / Crank Wheel Derailment",
+                "ptBR": "8. Cuidado com o Meio-fio na Curva em S/L"
+              },
+              "subtitle": {
+                "ja": "鮫洲のコースは非常に狭いです！後輪が縁石に乗り上げそうになったら、すぐにブレーキをかけて停止してください。その場でバックしてやり直せば合格の可能性がありますが、そのまま進むと即不合格です！",
+                "en": "Samezu's curves are extremely narrow! If you feel the rear wheel is about to hit the curb, brake immediately! You can reverse and try again, but driving over the curb is an automatic failure!",
+                "zh": "鮫洲的弯道极窄！万一感觉后轮要压上马路牙子，立刻踩死刹车！原地挂倒挡往后退（允许重试），心存侥幸硬开过去直接不及格！",
+                "zht": "鮫洲的彎道極窄！萬一感覺後輪要壓上馬路牙子，立刻踩死剎車！原地掛倒擋往後退（允許重試），心存僥倖硬開過去直接不及格！",
+                "ko": "사메즈의 커브는 매우 좁습니다! 뒷바퀴가 연석에 올라탈 것 같으면 즉시 브레이크를 밟으세요! 그 자리에서 후진하여 다시 시도하면 합격 가능성이 있지만, 그대로 진행하면 즉시 불합격입니다!",
+                "vi": "Khúc cua ở Samezu rất hẹp! Nếu cảm thấy bánh sau sắp đè lên vỉa hè, hãy đạp phanh ngay lập tức! Bạn có thể lùi lại và thử lại, nhưng nếu cố tình đi qua sẽ bị đánh trượt ngay!",
+                "km": "ផ្លូវកោងរបស់ Samezu គឺចង្អៀតណាស់! ប្រសិនបើអ្នកមានអារម្មណ៍ថាកង់ក្រោយជិតនឹងកិនចិញ្ចើមផ្លូវ សូមជាន់ហ្វ្រាំងជាបន្ទាន់! អ្នកអាចថយក្រោយដើម្បីសាកល្បងម្ដងទៀត ប៉ុន្តែប្រសិនបើអ្នកបន្តទៅមុខនឹងត្រូវធ្លាក់ភ្លាមៗ!",
+                "ne": "सामेजुको घुम्तीहरू एकदमै साँघुरा छन्! यदि पछाडिको पाङ्ग्रा किनारामा चढ्न लागेको महसुस भएमा, तुरुन्तै ब्रेक लगाउनुहोस्! तपाईं ब्याक गरेर पुन: प्रयास गर्न सक्नुहुन्छ, तर जबरजस्ती अगाडि बढेमा तुरुन्तै फेल हुनुहुनेछ!",
+                "id": "Tikungan Samezu sangat sempit! Jika merasa roda belakang akan menabrak trotoar, segera injak rem! Anda boleh mundur dan mencoba lagi, tapi jika memaksakan lewat akan langsung tidak lulus!",
+                "my": "ဆာမေးဇူး၏ ကွေ့များသည် အလွန်ကျဉ်းပါသည်။ နောက်ဘီးသည် လမ်းဘေးနင်းမိတော့မည်ဟု ခံစားရပါက ချက်ချင်းဘရိတ်အုပ်ပါ။ နောက်ဆုတ်ပြီး ပြန်ကြိုးစားနိုင်သော်လည်း ဇွတ်မောင်းပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Napakakipot ng mga kurba sa Samezu! Kung mararamdaman mong tatama ang gulong sa gilid, mag-preno agad! Maaari kang umatras at sumubok muli, pero kung itutuloy mo ay babagsak ka agad!",
+                "ptBR": "As curvas de Samezu são extremamente estreitas! Se sentir que a roda traseira vai subir no meio-fio, freie imediatamente! Você pode dar ré e tentar de novo, mas se continuar será reprovado automaticamente!"
+              }
+            },
+            {
+              "lat": 35.60359668131136,
+              "lng": 139.74779446347108,
+              "title": {
+                "ja": "9. S字・クランク脱輪注意",
+                "en": "9. S-Curve / Crank Wheel Derailment",
+                "zh": "9. S弯/直角弯脱轮",
+                "zht": "9. S彎/直角彎脫輪",
+                "ko": "9. S자·크랭크 탈륜 주의",
+                "vi": "9. Chú ý đè vạch đường chữ S/vuông góc",
+                "km": "9. ការប្រុងប្រយ័ត្នកិនចិញ្ចើមផ្លូវអក្សរ S/បត់កែង",
+                "ne": "9. एस-घुम्ती/क्र्यांकमा टायर चढ्ने जोखिम",
+                "id": "9. Waspada Trotoar Jalur S/Siku",
+                "my": "၉။ S-ကွေ့/ထောင့်ချိုးလမ်းကြောင်း နင်းမိနိုင်ခြေ",
+                "tl": "9. S-Curve / Crank Wheel Derailment",
+                "ptBR": "9. Cuidado com o Meio-fio na Curva em S/L"
+              },
+              "subtitle": {
+                "ja": "鮫洲のコースは非常に狭いです！後輪が縁石に乗り上げそうになったら、すぐにブレーキをかけて停止してください。その場でバックしてやり直せば合格の可能性がありますが、そのまま進むと即不合格です！",
+                "en": "Samezu's curves are extremely narrow! If you feel the rear wheel is about to hit the curb, brake immediately! You can reverse and try again, but driving over the curb is an automatic failure!",
+                "zh": "鮫洲的弯道极窄！万一感觉后轮要压上马路牙子，立刻踩死刹车！原地挂倒挡往后退（允许重试），心存侥幸硬开过去直接不及格！",
+                "zht": "鮫洲的彎道極窄！萬一感覺後輪要壓上馬路牙子，立刻踩死剎車！原地掛倒擋往後退（允許重試），心存僥倖硬開過去直接不及格！",
+                "ko": "사메즈의 커브는 매우 좁습니다! 뒷바퀴가 연석에 올라탈 것 같으면 즉시 브레이크를 밟으세요! 그 자리에서 후진하여 다시 시도하면 합격 가능성이 있지만, 그대로 진행하면 즉시 불합격입니다!",
+                "vi": "Khúc cua ở Samezu rất hẹp! Nếu cảm thấy bánh sau sắp đè lên vỉa hè, hãy đạp phanh ngay lập tức! Bạn có thể lùi lại và thử lại, nhưng nếu cố tình đi qua sẽ bị đánh trượt ngay!",
+                "km": "ផ្លូវកោងរបស់ Samezu គឺចង្អៀតណាស់! ប្រសិនបើអ្នកមានអារម្មណ៍ថាកង់ក្រោយជិតនឹងកិនចិញ្ចើមផ្លូវ សូមជាន់ហ្វ្រាំងជាបន្ទាន់! អ្នកអាចថយក្រោយដើម្បីសាកល្បងម្ដងទៀត ប៉ុន្តែប្រសិនបើអ្នកបន្តទៅមុខនឹងត្រូវធ្លាក់ភ្លាមៗ!",
+                "ne": "सामेजुको घुम्तीहरू एकदमै साँघुरा छन्! यदि पछाडिको पाङ्ग्रा किनारामा चढ्न लागेको महसुस भएमा, तुरुन्तै ब्रेक लगाउनुहोस्! तपाईं ब्याक गरेर पुन: प्रयास गर्न सक्नुहुन्छ, तर जबरजस्ती अगाडि बढेमा तुरुन्तै फेल हुनुहुनेछ!",
+                "id": "Tikungan Samezu sangat sempit! Jika merasa roda belakang akan menabrak trotoar, segera injak rem! Anda boleh mundur dan mencoba lagi, tapi jika memaksakan lewat akan langsung tidak lulus!",
+                "my": "ဆာမေးဇူး၏ ကွေ့များသည် အလွန်ကျဉ်းပါသည်။ နောက်ဘီးသည် လမ်းဘေးနင်းမိတော့မည်ဟု ခံစားရပါက ချက်ချင်းဘရိတ်အုပ်ပါ။ နောက်ဆုတ်ပြီး ပြန်ကြိုးစားနိုင်သော်လည်း ဇွတ်မောင်းပါက ချက်ချင်းကျရှုံးပါမည်။",
+                "tl": "Napakakipot ng mga kurba sa Samezu! Kung mararamdaman mong tatama ang gulong sa gilid, mag-preno agad! Maaari kang umatras at sumubok muli, pero kung itutuloy mo ay babagsak ka agad!",
+                "ptBR": "As curvas de Samezu são extremamente estreitas! Se sentir que a roda traseira vai subir no meio-fio, freie imediatamente! Você pode dar ré e tentar de novo, mas se continuar será reprovado automaticamente!"
+              }
+            }
+          ],
+          "directions": [
+            {
+              "id": "C_dir_1",
+              "lat": 35.60386314910628,
+              "lng": 139.7467288055851,
+              "heading": 10.0
+            },
+            {
+              "id": "C_dir_2",
+              "lat": 35.603534758504324,
+              "lng": 139.74678776496626,
+              "heading": 100.0
+            },
+            {
+              "id": "C_dir_3",
+              "lat": 35.60367141054999,
+              "lng": 139.7467645950431,
+              "heading": 190.0
+            },
+            {
+              "id": "C_dir_4",
+              "lat": 35.60363943191892,
+              "lng": 139.74783604204404,
+              "heading": 10.0
+            },
+            {
+              "id": "C_dir_5",
+              "lat": 35.60392826274575,
+              "lng": 139.74754322991404,
+              "heading": 100.0
+            },
+            {
+              "id": "C_dir_6",
+              "lat": 35.60334260456858,
+              "lng": 139.7479408360314,
+              "heading": 240.0
+            },
+            {
+              "id": "C_dir_7",
+              "lat": 35.60375001324096,
+              "lng": 139.74804458776921,
+              "heading": 280.0
+            },
+            {
+              "id": "C_dir_8",
+              "lat": 35.60336335671608,
+              "lng": 139.74745330180994,
+              "heading": 280.0
+            },
+            {
+              "id": "C_dir_9",
+              "lat": 35.6033326157541,
+              "lng": 139.74779362058328,
+              "heading": 45.0
+            },
+            {
+              "id": "C_dir_10",
+              "lat": 35.60373183813024,
+              "lng": 139.74714069915143,
+              "heading": 100.0
+            },
+            {
+              "id": "C_dir_11",
+              "lat": 35.603928259610456,
+              "lng": 139.74721600140103,
+              "heading": 280.0
+            },
+            {
+              "id": "C_dir_12",
+              "lat": 35.60347886290044,
+              "lng": 139.74799629513694,
+              "heading": 280.0
+            },
+            {
+              "id": "C_dir_13",
+              "lat": 35.60352971353215,
+              "lng": 139.74738189291367,
+              "heading": 10.0
+            },
+            {
+              "id": "C_dir_14",
+              "lat": 35.60377028309589,
+              "lng": 139.74675112568735,
+              "heading": 10.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
