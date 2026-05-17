@@ -3,18 +3,18 @@
     {
       "id": "samezu",
       "name": {
-        "ja": "東京都 鮫洲運転免許試験場",
-        "en": "Tokyo Samezu Driving Test Center",
-        "zh": "东京 鲛洲考场",
-        "zht": "東京 鮫洲考場",
-        "ko": "도쿄 사메즈 운전면허시험장",
-        "vi": "Trung tâm sát hạch Samezu Tokyo",
-        "km": "មជ្ឈមណ្ឌលប្រឡង Samezu តូក្យូ",
-        "ne": "टोक्यो सामेजु परीक्षण केन्द्र",
-        "id": "Pusat Ujian Samezu Tokyo",
-        "my": "တိုကျို ဆာမေးဇူး စာမေးပွဲစင်တာ",
-        "tl": "Samezu Test Center ng Tokyo",
-        "ptBR": "Centro de Testes Samezu de Tóquio"
+        "ja": "鮫洲運転免許試験場",
+        "en": "Samezu Driving Test Center",
+        "zh": "鲛洲驾驶执照考场",
+        "zht": "鮫洲駕駛執照考場",
+        "ko": "사메즈 운전면허시험장",
+        "vi": "Trung tâm sát hạch lái xe Samezu",
+        "km": "មជ្ឈមណ្ឌលប្រឡងប័ណ្ណបើកបរ Samezu",
+        "ne": "सामेजु सवारी चालक अनुमतिपत्र परीक्षण केन्द्र",
+        "id": "Pusat Ujian SIM Samezu",
+        "my": "ဆာမေးဇူး ယာဉ်မောင်းလိုင်စင် စာမေးပွဲစင်တာ",
+        "tl": "Sentro ng Pagsusulit sa Pagmamaneho sa Samezu",
+        "ptBR": "Centro de Exames de Habilitação Samezu"
       },
       "center": {
         "lat": 35.6035,

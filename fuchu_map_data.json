@@ -5,16 +5,16 @@
       "name": {
         "ja": "府中運転免許試験場",
         "en": "Fuchu Driving Test Center",
-        "zh": "东京府中考场",
-        "zht": "東京府中考場",
+        "zh": "府中驾驶执照考场",
+        "zht": "府中駕駛執照考場",
         "ko": "후추 운전면허시험장",
-        "vi": "Trung tâm sát hạch Fuchu",
-        "km": "មជ្ឈមណ្ឌលប្រឡង Fuchu",
-        "ne": "फुचु परीक्षण केन्द्र",
-        "id": "Pusat Ujian Fuchu",
-        "my": "ဖူချူ စာမေးပွဲစင်တာ",
-        "tl": "Fuchu Test Center",
-        "ptBR": "Centro de Testes Fuchu"
+        "vi": "Trung tâm sát hạch lái xe Fuchu",
+        "km": "មជ្ឈមណ្ឌលប្រឡងប័ណ្ណបើកបរ Fuchu",
+        "ne": "फुचु सवारी चालक अनुमतिपत्र परीक्षण केन्द्र",
+        "id": "Pusat Ujian SIM Fuchu",
+        "my": "ဖူချူ ယာဉ်မောင်းလိုင်စင် စာမေးပွဲစင်တာ",
+        "tl": "Sentro ng Pagsusulit sa Pagmamaneho sa Fuchu",
+        "ptBR": "Centro de Exames de Habilitação Fuchu"
       },
       "center": {
         "lat": 35.6898,

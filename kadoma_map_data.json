@@ -5,16 +5,16 @@
       "name": {
         "ja": "門真運転免許試験場",
         "en": "Kadoma Driving Test Center",
-        "zh": "大阪府 门真考场",
-        "zht": "大阪府 門真考場",
+        "zh": "门真驾驶执照考场",
+        "zht": "門真駕駛執照考場",
         "ko": "카도마 운전면허시험장",
-        "vi": "Trung tâm sát hạch Kadoma",
-        "km": "មជ្ឈមណ្ឌលប្រឡង Kadoma",
-        "ne": "कादो마 परीक्षण केन्द्र",
-        "id": "Pusat Ujian Kadoma",
-        "my": "ကာဒိုမာ စာမေးပွဲစင်တာ",
-        "tl": "Kadoma Test Center",
-        "ptBR": "Centro de Testes Kadoma"
+        "vi": "Trung tâm sát hạch lái xe Kadoma",
+        "km": "មជ្ឈមណ្ឌលប្រឡងប័ណ្ណបើកបរ Kadoma",
+        "ne": "कादोमा सवारी चालक अनुमतिपत्र परीक्षण केन्द्र",
+        "id": "Pusat Ujian SIM Kadoma",
+        "my": "ကာဒိုမာ ယာဉ်မောင်းလိုင်စင် စာမေးပွဲစင်တာ",
+        "tl": "Sentro ng Pagsusulit sa Pagmamaneho sa Kadoma",
+        "ptBR": "Centro de Exames de Habilitação Kadoma"
       },
       "center": {
         "lat": 34.728661,
