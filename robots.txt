@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akiralqh.github.io/JP_License_GO/sitemap.xml
