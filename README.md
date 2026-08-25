@@ -45,4 +45,4 @@
 
 If you have any questions about this Privacy Policy, please contact us.
 
-*   **Email**: **iruyo@le-bebegrp.com**
+*   **Email**: **jplic-support@le-bebegrp.com**
